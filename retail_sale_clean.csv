@@ -1,0 +1,501 @@
+orderid,orderdate,customerid,product,category,quantity,unitprice,totalamount,region,paymentmethod,year,month,quarter,profit,ordercategory,customertype
+446,2023-01-09,CUST1000,Bag,Stationery,4,25.0,100.0,Illinois,Wallet,2023,1,1,20.0,low value,New
+62,2023-01-23,CUST1000,Notebook,Stationery,3,5.0,15.0,Texas,Debit Card,2023,1,1,3.0,low value,Returning
+248,2023-03-03,CUST1000,Microwave,Home Appliances,3,150.0,450.0,Florida,COD,2023,3,1,90.0,low value,Returning
+34,2023-04-23,CUST1000,Jacket,Fashion,5,80.0,400.0,New York,Credit Card,2023,4,2,80.0,low value,Returning
+199,2023-07-22,CUST1001,Mixer,Home Appliances,1,100.0,100.0,Texas,Wallet,2023,7,3,20.0,low value,New
+164,2023-10-10,CUST1001,T-Shirt,Fashion,3,20.0,60.0,Illinois,COD,2023,10,4,12.0,low value,Returning
+453,2023-11-23,CUST1001,Bag,Stationery,1,25.0,25.0,California,Credit Card,2023,11,4,5.0,low value,Returning
+110,2023-04-13,CUST1002,Laptop,Electronics,2,600.0,1200.0,Illinois,Debit Card,2023,4,2,240.0,high value,New
+457,2023-06-11,CUST1002,Smartphone,Electronics,2,400.0,800.0,California,Wallet,2023,6,2,160.0,high value,Returning
+72,2023-04-25,CUST1003,Microwave,Home Appliances,2,150.0,300.0,California,COD,2023,4,2,60.0,low value,New
+74,2023-06-19,CUST1003,Book,Stationery,5,15.0,75.0,New York,UPI,2023,6,2,15.0,low value,Returning
+239,2023-11-21,CUST1003,Headphones,Electronics,2,50.0,100.0,New York,Wallet,2023,11,4,20.0,low value,Returning
+220,2023-11-26,CUST1003,Microwave,Home Appliances,4,150.0,600.0,New York,COD,2023,11,4,120.0,high value,Returning
+215,2023-12-05,CUST1003,T-Shirt,Fashion,1,20.0,20.0,California,Credit Card,2023,12,4,4.0,low value,Returning
+15,2023-04-28,CUST1004,Refrigerator,Home Appliances,1,500.0,500.0,Texas,COD,2023,4,2,100.0,low value,New
+75,2023-05-16,CUST1004,T-Shirt,Fashion,5,20.0,100.0,New York,Wallet,2023,5,2,20.0,low value,Returning
+194,2023-08-14,CUST1004,Smartphone,Electronics,3,400.0,1200.0,Illinois,UPI,2023,8,3,240.0,high value,Returning
+408,2023-08-30,CUST1004,Smartphone,Electronics,1,400.0,400.0,Texas,COD,2023,8,3,80.0,low value,Returning
+179,2023-10-05,CUST1004,Refrigerator,Home Appliances,4,500.0,2000.0,Illinois,Credit Card,2023,10,4,400.0,high value,Returning
+317,2023-10-18,CUST1004,Mixer,Home Appliances,4,100.0,400.0,Illinois,Debit Card,2023,10,4,80.0,low value,Returning
+87,2023-01-13,CUST1005,Jeans,Fashion,2,40.0,80.0,California,COD,2023,1,1,16.0,low value,New
+338,2023-02-11,CUST1005,Smartphone,Electronics,1,400.0,400.0,Illinois,UPI,2023,2,1,80.0,low value,Returning
+376,2023-05-29,CUST1005,Mixer,Home Appliances,2,100.0,200.0,Texas,Credit Card,2023,5,2,40.0,low value,Returning
+497,2023-06-03,CUST1005,Refrigerator,Home Appliances,1,500.0,500.0,New York,Credit Card,2023,6,2,100.0,low value,Returning
+173,2023-07-30,CUST1005,Book,Stationery,2,15.0,30.0,Texas,COD,2023,7,3,6.0,low value,Returning
+300,2023-08-29,CUST1005,Laptop,Electronics,4,600.0,2400.0,Florida,UPI,2023,8,3,480.0,high value,Returning
+211,2023-01-11,CUST1006,Jeans,Fashion,5,40.0,200.0,Texas,Debit Card,2023,1,1,40.0,low value,New
+48,2023-01-30,CUST1006,Smartphone,Electronics,3,400.0,1200.0,Illinois,COD,2023,1,1,240.0,high value,Returning
+423,2023-09-11,CUST1006,Notebook,Stationery,5,5.0,25.0,Texas,COD,2023,9,3,5.0,low value,Returning
+443,2023-12-09,CUST1006,Smartphone,Electronics,1,400.0,400.0,New York,COD,2023,12,4,80.0,low value,Returning
+404,2023-08-17,CUST1007,Headphones,Electronics,5,50.0,250.0,Florida,Debit Card,2023,8,3,50.0,low value,New
+405,2023-10-16,CUST1007,Notebook,Stationery,4,5.0,20.0,Illinois,COD,2023,10,4,4.0,low value,Returning
+262,2023-10-30,CUST1007,Microwave,Home Appliances,3,150.0,450.0,Texas,Wallet,2023,10,4,90.0,low value,Returning
+314,2023-11-24,CUST1007,Notebook,Stationery,3,5.0,15.0,New York,COD,2023,11,4,3.0,low value,Returning
+341,2023-12-19,CUST1007,Pen,Stationery,1,2.0,2.0,California,COD,2023,12,4,0.3999999999999999,low value,Returning
+328,2023-02-14,CUST1008,Shoes,Fashion,5,60.0,300.0,Texas,COD,2023,2,1,60.0,low value,New
+316,2023-03-06,CUST1008,Pen,Stationery,1,2.0,2.0,California,UPI,2023,3,1,0.3999999999999999,low value,Returning
+304,2023-03-11,CUST1008,Bag,Stationery,2,25.0,50.0,Florida,Credit Card,2023,3,1,10.0,low value,Returning
+212,2023-04-16,CUST1008,Shoes,Fashion,5,60.0,300.0,Illinois,Debit Card,2023,4,2,60.0,low value,Returning
+261,2023-08-14,CUST1008,Refrigerator,Home Appliances,2,500.0,1000.0,Florida,COD,2023,8,3,200.0,high value,Returning
+456,2023-01-24,CUST1009,Bag,Stationery,3,25.0,75.0,Texas,Wallet,2023,1,1,15.0,low value,New
+277,2023-03-21,CUST1009,Jacket,Fashion,2,80.0,160.0,Texas,Credit Card,2023,3,1,32.0,low value,Returning
+187,2023-03-22,CUST1009,Microwave,Home Appliances,5,150.0,750.0,Florida,UPI,2023,3,1,150.0,high value,Returning
+42,2023-05-08,CUST1009,Washing Machine,Home Appliances,4,300.0,1200.0,Florida,Wallet,2023,5,2,240.0,high value,Returning
+95,2023-08-14,CUST1009,Jacket,Fashion,3,80.0,240.0,Texas,Debit Card,2023,8,3,48.0,low value,Returning
+292,2023-01-03,CUST1010,Pen,Stationery,5,2.0,10.0,New York,UPI,2023,1,1,2.0,low value,New
+184,2023-03-31,CUST1010,T-Shirt,Fashion,2,20.0,40.0,Illinois,COD,2023,3,1,8.0,low value,Returning
+125,2023-04-08,CUST1010,Laptop,Electronics,5,600.0,3000.0,California,COD,2023,4,2,600.0,high value,Returning
+334,2023-05-26,CUST1010,Mixer,Home Appliances,5,100.0,500.0,Texas,Debit Card,2023,5,2,100.0,low value,Returning
+310,2023-08-06,CUST1010,Washing Machine,Home Appliances,1,300.0,300.0,Florida,Wallet,2023,8,3,60.0,low value,Returning
+49,2023-09-18,CUST1010,T-Shirt,Fashion,1,20.0,20.0,California,Credit Card,2023,9,3,4.0,low value,Returning
+85,2023-12-04,CUST1010,Bag,Stationery,2,25.0,50.0,Texas,Wallet,2023,12,4,10.0,low value,Returning
+349,2023-01-12,CUST1011,Microwave,Home Appliances,4,150.0,600.0,Florida,Wallet,2023,1,1,120.0,high value,New
+470,2023-01-14,CUST1011,Notebook,Stationery,1,5.0,5.0,Texas,Wallet,2023,1,1,1.0,low value,Returning
+467,2023-02-24,CUST1011,Refrigerator,Home Appliances,3,500.0,1500.0,New York,UPI,2023,2,1,300.0,high value,Returning
+428,2023-07-09,CUST1011,Headphones,Electronics,4,50.0,200.0,Illinois,Debit Card,2023,7,3,40.0,low value,Returning
+491,2023-01-06,CUST1012,Notebook,Stationery,1,5.0,5.0,Texas,Debit Card,2023,1,1,1.0,low value,New
+380,2023-01-27,CUST1012,Jacket,Fashion,2,80.0,160.0,Florida,UPI,2023,1,1,32.0,low value,Returning
+416,2023-02-04,CUST1012,Jacket,Fashion,2,80.0,160.0,Illinois,Credit Card,2023,2,1,32.0,low value,Returning
+38,2023-02-18,CUST1012,Notebook,Stationery,2,5.0,10.0,Florida,UPI,2023,2,1,2.0,low value,Returning
+7,2023-07-14,CUST1012,Tablet,Electronics,1,250.0,250.0,Texas,UPI,2023,7,3,50.0,low value,Returning
+496,2023-09-01,CUST1012,Bag,Stationery,3,25.0,75.0,Florida,COD,2023,9,3,15.0,low value,Returning
+468,2023-05-19,CUST1013,Pen,Stationery,3,2.0,6.0,California,Credit Card,2023,5,2,1.1999999999999993,low value,New
+113,2023-06-09,CUST1013,Tablet,Electronics,2,250.0,500.0,Illinois,Credit Card,2023,6,2,100.0,low value,Returning
+40,2023-06-23,CUST1013,Smartphone,Electronics,4,400.0,1600.0,California,Debit Card,2023,6,2,320.0,high value,Returning
+189,2023-09-05,CUST1013,Jeans,Fashion,4,40.0,160.0,California,COD,2023,9,3,32.0,low value,Returning
+285,2023-10-11,CUST1013,Bag,Stationery,3,25.0,75.0,Illinois,Credit Card,2023,10,4,15.0,low value,Returning
+67,2023-12-08,CUST1013,Jeans,Fashion,2,40.0,80.0,Texas,Wallet,2023,12,4,16.0,low value,Returning
+221,2023-12-18,CUST1013,Book,Stationery,4,15.0,60.0,Florida,COD,2023,12,4,12.0,low value,Returning
+27,2023-01-10,CUST1014,Refrigerator,Home Appliances,4,500.0,2000.0,Texas,UPI,2023,1,1,400.0,high value,New
+20,2023-01-25,CUST1014,Bag,Stationery,1,25.0,25.0,California,Debit Card,2023,1,1,5.0,low value,Returning
+252,2023-05-29,CUST1014,Book,Stationery,4,15.0,60.0,Florida,Credit Card,2023,5,2,12.0,low value,Returning
+234,2023-07-08,CUST1014,Mixer,Home Appliances,5,100.0,500.0,Texas,Wallet,2023,7,3,100.0,low value,Returning
+401,2023-10-16,CUST1014,Mixer,Home Appliances,1,100.0,100.0,New York,Wallet,2023,10,4,20.0,low value,Returning
+225,2023-12-26,CUST1014,Notebook,Stationery,1,5.0,5.0,Illinois,Debit Card,2023,12,4,1.0,low value,Returning
+210,2023-04-08,CUST1015,Book,Stationery,3,15.0,45.0,Florida,Credit Card,2023,4,2,9.0,low value,New
+91,2023-05-08,CUST1015,Smartphone,Electronics,5,400.0,2000.0,Florida,Debit Card,2023,5,2,400.0,high value,Returning
+50,2023-07-26,CUST1015,Headphones,Electronics,2,50.0,100.0,Illinois,Debit Card,2023,7,3,20.0,low value,Returning
+214,2023-03-16,CUST1016,Laptop,Electronics,3,600.0,1800.0,Illinois,UPI,2023,3,1,360.0,high value,New
+331,2023-06-26,CUST1016,Pen,Stationery,5,2.0,10.0,Illinois,Wallet,2023,6,2,2.0,low value,Returning
+162,2023-10-09,CUST1016,Jeans,Fashion,3,40.0,120.0,Texas,COD,2023,10,4,24.0,low value,Returning
+81,2023-10-11,CUST1016,Book,Stationery,3,15.0,45.0,California,COD,2023,10,4,9.0,low value,Returning
+278,2023-11-13,CUST1016,Smartphone,Electronics,3,400.0,1200.0,Illinois,COD,2023,11,4,240.0,high value,Returning
+358,2023-01-20,CUST1017,Smartphone,Electronics,1,400.0,400.0,Texas,COD,2023,1,1,80.0,low value,New
+477,2023-02-24,CUST1017,Jeans,Fashion,4,40.0,160.0,Texas,Credit Card,2023,2,1,32.0,low value,Returning
+326,2023-04-13,CUST1017,Jacket,Fashion,1,80.0,80.0,California,COD,2023,4,2,16.0,low value,Returning
+352,2023-08-09,CUST1017,Laptop,Electronics,1,600.0,600.0,Texas,UPI,2023,8,3,120.0,high value,Returning
+41,2023-08-18,CUST1017,Jeans,Fashion,5,40.0,200.0,Florida,Debit Card,2023,8,3,40.0,low value,Returning
+205,2023-10-03,CUST1017,Tablet,Electronics,2,250.0,500.0,Florida,COD,2023,10,4,100.0,low value,Returning
+284,2023-11-06,CUST1017,T-Shirt,Fashion,2,20.0,40.0,Texas,Credit Card,2023,11,4,8.0,low value,Returning
+369,2023-12-28,CUST1017,Bag,Stationery,1,25.0,25.0,Illinois,Debit Card,2023,12,4,5.0,low value,Returning
+198,2023-02-08,CUST1018,Tablet,Electronics,4,250.0,1000.0,California,COD,2023,2,1,200.0,high value,New
+238,2023-04-03,CUST1018,Mixer,Home Appliances,1,100.0,100.0,Illinois,COD,2023,4,2,20.0,low value,Returning
+185,2023-10-26,CUST1018,Jacket,Fashion,4,80.0,320.0,California,COD,2023,10,4,64.0,low value,Returning
+6,2023-05-23,CUST1019,Notebook,Stationery,3,5.0,15.0,California,UPI,2023,5,2,3.0,low value,New
+414,2023-06-27,CUST1019,Jacket,Fashion,4,80.0,320.0,Texas,Debit Card,2023,6,2,64.0,low value,Returning
+424,2023-07-29,CUST1019,Refrigerator,Home Appliances,4,500.0,2000.0,Texas,COD,2023,7,3,400.0,high value,Returning
+449,2023-09-26,CUST1019,Tablet,Electronics,1,250.0,250.0,California,Debit Card,2023,9,3,50.0,low value,Returning
+402,2023-10-02,CUST1019,Jeans,Fashion,5,40.0,200.0,California,UPI,2023,10,4,40.0,low value,Returning
+486,2023-12-04,CUST1019,Jacket,Fashion,3,80.0,240.0,Florida,COD,2023,12,4,48.0,low value,Returning
+242,2023-03-21,CUST1020,Headphones,Electronics,1,50.0,50.0,Illinois,Credit Card,2023,3,1,10.0,low value,New
+333,2023-03-26,CUST1020,Shoes,Fashion,3,60.0,180.0,Texas,Debit Card,2023,3,1,36.0,low value,Returning
+93,2023-08-17,CUST1020,Notebook,Stationery,5,5.0,25.0,Florida,COD,2023,8,3,5.0,low value,Returning
+315,2023-12-14,CUST1020,Mixer,Home Appliances,5,100.0,500.0,New York,Debit Card,2023,12,4,100.0,low value,Returning
+149,2023-01-31,CUST1021,Shoes,Fashion,1,60.0,60.0,Texas,Wallet,2023,1,1,12.0,low value,New
+181,2023-08-16,CUST1021,Tablet,Electronics,1,250.0,250.0,Texas,Credit Card,2023,8,3,50.0,low value,Returning
+441,2023-08-24,CUST1021,Bag,Stationery,4,25.0,100.0,Texas,Debit Card,2023,8,3,20.0,low value,Returning
+473,2023-09-24,CUST1021,Jacket,Fashion,5,80.0,400.0,Florida,Debit Card,2023,9,3,80.0,low value,Returning
+13,2023-11-22,CUST1021,Headphones,Electronics,5,50.0,250.0,Illinois,Debit Card,2023,11,4,50.0,low value,Returning
+336,2023-11-25,CUST1021,Headphones,Electronics,5,50.0,250.0,Illinois,Wallet,2023,11,4,50.0,low value,Returning
+498,2023-12-13,CUST1021,Refrigerator,Home Appliances,1,500.0,500.0,California,Wallet,2023,12,4,100.0,low value,Returning
+384,2023-01-20,CUST1022,Jacket,Fashion,5,80.0,400.0,Florida,Debit Card,2023,1,1,80.0,low value,New
+411,2023-03-02,CUST1022,Shoes,Fashion,3,60.0,180.0,Illinois,COD,2023,3,1,36.0,low value,Returning
+90,2023-04-23,CUST1022,Tablet,Electronics,4,250.0,1000.0,Illinois,COD,2023,4,2,200.0,high value,Returning
+123,2023-06-16,CUST1023,Laptop,Electronics,4,600.0,2400.0,Florida,Debit Card,2023,6,2,480.0,high value,New
+137,2023-06-24,CUST1023,Bag,Stationery,4,25.0,100.0,New York,UPI,2023,6,2,20.0,low value,Returning
+442,2023-09-08,CUST1023,Shoes,Fashion,5,60.0,300.0,Illinois,Credit Card,2023,9,3,60.0,low value,Returning
+385,2023-09-11,CUST1023,Smartphone,Electronics,4,400.0,1600.0,Texas,Credit Card,2023,9,3,320.0,high value,Returning
+172,2023-06-14,CUST1024,Book,Stationery,4,15.0,60.0,California,Wallet,2023,6,2,12.0,low value,New
+77,2023-10-23,CUST1024,Tablet,Electronics,4,250.0,1000.0,Texas,Credit Card,2023,10,4,200.0,high value,Returning
+305,2023-01-23,CUST1025,Microwave,Home Appliances,2,150.0,300.0,New York,UPI,2023,1,1,60.0,low value,New
+71,2023-04-24,CUST1025,Smartphone,Electronics,4,400.0,1600.0,Florida,UPI,2023,4,2,320.0,high value,Returning
+258,2023-05-12,CUST1025,Tablet,Electronics,2,250.0,500.0,California,Wallet,2023,5,2,100.0,low value,Returning
+480,2023-12-22,CUST1025,Refrigerator,Home Appliances,5,500.0,2500.0,Florida,UPI,2023,12,4,500.0,high value,Returning
+83,2023-05-27,CUST1026,Laptop,Electronics,3,600.0,1800.0,Florida,Wallet,2023,5,2,360.0,high value,New
+342,2023-08-26,CUST1026,Notebook,Stationery,4,5.0,20.0,Texas,Wallet,2023,8,3,4.0,low value,Returning
+60,2023-11-06,CUST1026,Washing Machine,Home Appliances,3,300.0,900.0,Texas,Debit Card,2023,11,4,180.0,high value,Returning
+403,2023-12-15,CUST1026,Pen,Stationery,1,2.0,2.0,Illinois,COD,2023,12,4,0.3999999999999999,low value,Returning
+368,2023-12-20,CUST1026,Shoes,Fashion,4,60.0,240.0,Florida,Wallet,2023,12,4,48.0,low value,Returning
+484,2023-12-29,CUST1026,Laptop,Electronics,4,600.0,2400.0,Florida,UPI,2023,12,4,480.0,high value,Returning
+244,2023-05-20,CUST1027,Pen,Stationery,4,2.0,8.0,Illinois,Credit Card,2023,5,2,1.5999999999999996,low value,New
+47,2023-06-01,CUST1027,Shoes,Fashion,2,60.0,120.0,New York,Wallet,2023,6,2,24.0,low value,Returning
+247,2023-06-04,CUST1027,Laptop,Electronics,2,600.0,1200.0,California,UPI,2023,6,2,240.0,high value,Returning
+55,2023-10-03,CUST1027,Tablet,Electronics,1,250.0,250.0,Illinois,UPI,2023,10,4,50.0,low value,Returning
+143,2023-11-17,CUST1027,Tablet,Electronics,2,250.0,500.0,Texas,Credit Card,2023,11,4,100.0,low value,Returning
+287,2023-02-16,CUST1028,Shoes,Fashion,4,60.0,240.0,Florida,UPI,2023,2,1,48.0,low value,New
+219,2023-09-15,CUST1028,Tablet,Electronics,4,250.0,1000.0,Illinois,Credit Card,2023,9,3,200.0,high value,Returning
+148,2023-10-06,CUST1028,Notebook,Stationery,1,5.0,5.0,California,UPI,2023,10,4,1.0,low value,Returning
+455,2023-01-22,CUST1029,Tablet,Electronics,5,250.0,1250.0,California,Wallet,2023,1,1,250.0,high value,New
+3,2023-04-22,CUST1029,Laptop,Electronics,1,600.0,600.0,Illinois,Wallet,2023,4,2,120.0,high value,Returning
+130,2023-05-09,CUST1029,Washing Machine,Home Appliances,3,300.0,900.0,New York,Debit Card,2023,5,2,180.0,high value,Returning
+439,2023-06-18,CUST1029,Shoes,Fashion,2,60.0,120.0,Florida,Wallet,2023,6,2,24.0,low value,Returning
+418,2023-08-13,CUST1029,Smartphone,Electronics,4,400.0,1600.0,Illinois,Debit Card,2023,8,3,320.0,high value,Returning
+68,2023-03-21,CUST1030,Notebook,Stationery,5,5.0,25.0,California,Debit Card,2023,3,1,5.0,low value,New
+294,2023-05-28,CUST1030,Notebook,Stationery,1,5.0,5.0,Texas,Credit Card,2023,5,2,1.0,low value,Returning
+393,2023-07-16,CUST1030,Laptop,Electronics,3,600.0,1800.0,Florida,UPI,2023,7,3,360.0,high value,Returning
+425,2023-08-31,CUST1030,T-Shirt,Fashion,5,20.0,100.0,California,UPI,2023,8,3,20.0,low value,Returning
+379,2023-10-28,CUST1030,Tablet,Electronics,5,250.0,1250.0,California,Credit Card,2023,10,4,250.0,high value,Returning
+395,2023-12-21,CUST1030,Washing Machine,Home Appliances,3,300.0,900.0,New York,Credit Card,2023,12,4,180.0,high value,Returning
+56,2023-02-05,CUST1031,Shoes,Fashion,3,60.0,180.0,Texas,UPI,2023,2,1,36.0,low value,New
+1,2023-05-21,CUST1031,Tablet,Electronics,1,250.0,250.0,California,Debit Card,2023,5,2,50.0,low value,Returning
+465,2023-06-01,CUST1031,Headphones,Electronics,5,50.0,250.0,New York,Credit Card,2023,6,2,50.0,low value,Returning
+89,2023-07-24,CUST1031,Book,Stationery,4,15.0,60.0,California,Credit Card,2023,7,3,12.0,low value,Returning
+340,2023-09-05,CUST1031,Microwave,Home Appliances,3,150.0,450.0,Florida,UPI,2023,9,3,90.0,low value,Returning
+451,2023-10-17,CUST1031,Book,Stationery,4,15.0,60.0,California,UPI,2023,10,4,12.0,low value,Returning
+366,2023-12-15,CUST1031,Book,Stationery,2,15.0,30.0,New York,Wallet,2023,12,4,6.0,low value,Returning
+427,2023-05-05,CUST1032,Shoes,Fashion,4,60.0,240.0,California,UPI,2023,5,2,48.0,low value,New
+476,2023-07-04,CUST1032,Bag,Stationery,1,25.0,25.0,California,COD,2023,7,3,5.0,low value,Returning
+406,2023-07-22,CUST1032,Microwave,Home Appliances,1,150.0,150.0,New York,Debit Card,2023,7,3,30.0,low value,Returning
+61,2023-09-08,CUST1032,Washing Machine,Home Appliances,5,300.0,1500.0,New York,Credit Card,2023,9,3,300.0,high value,Returning
+377,2023-12-02,CUST1032,Mixer,Home Appliances,4,100.0,400.0,Florida,Debit Card,2023,12,4,80.0,low value,Returning
+188,2023-12-20,CUST1032,Microwave,Home Appliances,4,150.0,600.0,Florida,UPI,2023,12,4,120.0,high value,Returning
+112,2023-12-25,CUST1032,Jeans,Fashion,4,40.0,160.0,Texas,Debit Card,2023,12,4,32.0,low value,Returning
+321,2023-03-02,CUST1033,Book,Stationery,5,15.0,75.0,Texas,COD,2023,3,1,15.0,low value,New
+30,2023-03-26,CUST1033,Bag,Stationery,5,25.0,125.0,Illinois,Wallet,2023,3,1,25.0,low value,Returning
+345,2023-03-04,CUST1034,Jacket,Fashion,4,80.0,320.0,Florida,Debit Card,2023,3,1,64.0,low value,New
+286,2023-03-24,CUST1034,Microwave,Home Appliances,1,150.0,150.0,Florida,Wallet,2023,3,1,30.0,low value,Returning
+102,2023-04-23,CUST1034,Jacket,Fashion,4,80.0,320.0,Florida,COD,2023,4,2,64.0,low value,Returning
+474,2023-06-04,CUST1034,Shoes,Fashion,3,60.0,180.0,Florida,Debit Card,2023,6,2,36.0,low value,Returning
+14,2023-07-14,CUST1034,T-Shirt,Fashion,4,20.0,80.0,Illinois,Debit Card,2023,7,3,16.0,low value,Returning
+388,2023-08-28,CUST1034,Shoes,Fashion,5,60.0,300.0,California,Credit Card,2023,8,3,60.0,low value,Returning
+121,2023-02-14,CUST1035,Refrigerator,Home Appliances,2,500.0,1000.0,Florida,Debit Card,2023,2,1,200.0,high value,New
+372,2023-05-07,CUST1035,Bag,Stationery,2,25.0,50.0,Illinois,UPI,2023,5,2,10.0,low value,Returning
+124,2023-06-24,CUST1035,Mixer,Home Appliances,3,100.0,300.0,Illinois,UPI,2023,6,2,60.0,low value,Returning
+482,2023-07-12,CUST1035,Jacket,Fashion,3,80.0,240.0,Florida,UPI,2023,7,3,48.0,low value,Returning
+475,2023-08-11,CUST1035,Headphones,Electronics,2,50.0,100.0,Florida,UPI,2023,8,3,20.0,low value,Returning
+5,2023-10-29,CUST1035,Jacket,Fashion,4,80.0,320.0,New York,Debit Card,2023,10,4,64.0,low value,Returning
+94,2023-11-23,CUST1035,Washing Machine,Home Appliances,2,300.0,600.0,Illinois,COD,2023,11,4,120.0,high value,Returning
+245,2023-02-26,CUST1036,Mixer,Home Appliances,4,100.0,400.0,Illinois,COD,2023,2,1,80.0,low value,New
+146,2023-04-29,CUST1036,Microwave,Home Appliances,1,150.0,150.0,Texas,COD,2023,4,2,30.0,low value,Returning
+269,2023-07-10,CUST1036,T-Shirt,Fashion,3,20.0,60.0,Florida,COD,2023,7,3,12.0,low value,Returning
+354,2023-10-11,CUST1036,Jeans,Fashion,3,40.0,120.0,New York,COD,2023,10,4,24.0,low value,Returning
+346,2023-01-26,CUST1037,Shoes,Fashion,1,60.0,60.0,Florida,Wallet,2023,1,1,12.0,low value,New
+182,2023-01-29,CUST1037,Smartphone,Electronics,3,400.0,1200.0,Texas,UPI,2023,1,1,240.0,high value,Returning
+127,2023-02-17,CUST1037,Pen,Stationery,1,2.0,2.0,California,COD,2023,2,1,0.3999999999999999,low value,Returning
+23,2023-02-27,CUST1037,Washing Machine,Home Appliances,3,300.0,900.0,Florida,Debit Card,2023,2,1,180.0,high value,Returning
+133,2023-04-10,CUST1037,Microwave,Home Appliances,1,150.0,150.0,California,UPI,2023,4,2,30.0,low value,Returning
+481,2023-06-13,CUST1037,T-Shirt,Fashion,4,20.0,80.0,Florida,Wallet,2023,6,2,16.0,low value,Returning
+419,2023-09-15,CUST1037,Smartphone,Electronics,2,400.0,800.0,California,Wallet,2023,9,3,160.0,high value,Returning
+204,2023-01-20,CUST1038,Shoes,Fashion,1,60.0,60.0,Florida,Credit Card,2023,1,1,12.0,low value,New
+458,2023-02-09,CUST1038,Shoes,Fashion,4,60.0,240.0,California,Wallet,2023,2,1,48.0,low value,Returning
+335,2023-11-17,CUST1038,Washing Machine,Home Appliances,2,300.0,600.0,Illinois,Wallet,2023,11,4,120.0,high value,Returning
+203,2023-12-25,CUST1038,Headphones,Electronics,4,50.0,200.0,Florida,Credit Card,2023,12,4,40.0,low value,Returning
+80,2023-09-17,CUST1039,Tablet,Electronics,3,250.0,750.0,Florida,UPI,2023,9,3,150.0,high value,New
+251,2023-02-09,CUST1040,Laptop,Electronics,4,600.0,2400.0,Illinois,COD,2023,2,1,480.0,high value,New
+227,2023-02-18,CUST1040,Book,Stationery,4,15.0,60.0,Florida,UPI,2023,2,1,12.0,low value,Returning
+347,2023-03-23,CUST1041,Notebook,Stationery,2,5.0,10.0,Illinois,UPI,2023,3,1,2.0,low value,New
+311,2023-05-31,CUST1041,T-Shirt,Fashion,5,20.0,100.0,New York,Credit Card,2023,5,2,20.0,low value,Returning
+195,2023-06-01,CUST1041,Shoes,Fashion,1,60.0,60.0,Florida,Debit Card,2023,6,2,12.0,low value,Returning
+391,2023-09-21,CUST1041,Book,Stationery,4,15.0,60.0,New York,COD,2023,9,3,12.0,low value,Returning
+202,2023-10-15,CUST1041,Laptop,Electronics,5,600.0,3000.0,Illinois,Debit Card,2023,10,4,600.0,high value,Returning
+216,2023-10-29,CUST1041,Mixer,Home Appliances,2,100.0,200.0,New York,Debit Card,2023,10,4,40.0,low value,Returning
+35,2023-01-17,CUST1042,Jacket,Fashion,1,80.0,80.0,New York,Wallet,2023,1,1,16.0,low value,New
+272,2023-03-18,CUST1042,Washing Machine,Home Appliances,5,300.0,1500.0,New York,Wallet,2023,3,1,300.0,high value,Returning
+499,2023-03-23,CUST1042,T-Shirt,Fashion,5,20.0,100.0,Illinois,COD,2023,3,1,20.0,low value,Returning
+431,2023-04-17,CUST1042,Jeans,Fashion,4,40.0,160.0,Texas,Credit Card,2023,4,2,32.0,low value,Returning
+98,2023-07-28,CUST1042,Headphones,Electronics,4,50.0,200.0,Illinois,COD,2023,7,3,40.0,low value,Returning
+129,2023-10-09,CUST1042,Mixer,Home Appliances,4,100.0,400.0,Texas,COD,2023,10,4,80.0,low value,Returning
+290,2023-11-29,CUST1042,Refrigerator,Home Appliances,1,500.0,500.0,California,Debit Card,2023,11,4,100.0,low value,Returning
+79,2023-12-07,CUST1042,Notebook,Stationery,1,5.0,5.0,Illinois,UPI,2023,12,4,1.0,low value,Returning
+33,2023-02-02,CUST1043,Jacket,Fashion,2,80.0,160.0,New York,Wallet,2023,2,1,32.0,low value,New
+267,2023-02-22,CUST1043,Smartphone,Electronics,4,400.0,1600.0,New York,Wallet,2023,2,1,320.0,high value,Returning
+276,2023-04-20,CUST1043,Microwave,Home Appliances,2,150.0,300.0,Florida,Debit Card,2023,4,2,60.0,low value,Returning
+303,2023-10-07,CUST1043,Smartphone,Electronics,3,400.0,1200.0,California,COD,2023,10,4,240.0,high value,Returning
+407,2023-08-05,CUST1044,Headphones,Electronics,1,50.0,50.0,New York,Wallet,2023,8,3,10.0,low value,New
+324,2023-12-08,CUST1044,Headphones,Electronics,3,50.0,150.0,New York,Wallet,2023,12,4,30.0,low value,Returning
+307,2023-05-27,CUST1045,Smartphone,Electronics,2,400.0,800.0,New York,UPI,2023,5,2,160.0,high value,New
+232,2023-06-09,CUST1045,Microwave,Home Appliances,5,150.0,750.0,New York,Wallet,2023,6,2,150.0,high value,Returning
+12,2023-07-09,CUST1045,Mixer,Home Appliances,2,100.0,200.0,California,UPI,2023,7,3,40.0,low value,Returning
+231,2023-07-30,CUST1045,Refrigerator,Home Appliances,1,500.0,500.0,Florida,Credit Card,2023,7,3,100.0,low value,Returning
+488,2023-01-19,CUST1046,Notebook,Stationery,5,5.0,25.0,Illinois,Wallet,2023,1,1,5.0,low value,New
+66,2023-06-07,CUST1046,Shoes,Fashion,1,60.0,60.0,New York,UPI,2023,6,2,12.0,low value,Returning
+19,2023-07-24,CUST1046,Notebook,Stationery,5,5.0,25.0,California,Debit Card,2023,7,3,5.0,low value,Returning
+280,2023-07-30,CUST1046,Pen,Stationery,1,2.0,2.0,California,COD,2023,7,3,0.3999999999999999,low value,Returning
+275,2023-09-18,CUST1046,Headphones,Electronics,4,50.0,200.0,New York,UPI,2023,9,3,40.0,low value,Returning
+196,2023-10-04,CUST1046,Jeans,Fashion,2,40.0,80.0,Illinois,Wallet,2023,10,4,16.0,low value,Returning
+362,2023-01-09,CUST1047,Microwave,Home Appliances,4,150.0,600.0,Texas,Credit Card,2023,1,1,120.0,high value,New
+289,2023-02-11,CUST1047,Jacket,Fashion,4,80.0,320.0,California,Credit Card,2023,2,1,64.0,low value,Returning
+436,2023-04-15,CUST1047,Bag,Stationery,3,25.0,75.0,Texas,COD,2023,4,2,15.0,low value,Returning
+356,2023-07-21,CUST1047,Shoes,Fashion,1,60.0,60.0,Texas,Wallet,2023,7,3,12.0,low value,Returning
+445,2023-08-22,CUST1047,Jeans,Fashion,5,40.0,200.0,New York,Wallet,2023,8,3,40.0,low value,Returning
+11,2023-02-21,CUST1048,Headphones,Electronics,2,50.0,100.0,Texas,COD,2023,2,1,20.0,low value,New
+45,2023-03-26,CUST1048,Book,Stationery,1,15.0,15.0,New York,COD,2023,3,1,3.0,low value,Returning
+106,2023-05-14,CUST1048,T-Shirt,Fashion,1,20.0,20.0,Texas,Debit Card,2023,5,2,4.0,low value,Returning
+410,2023-07-13,CUST1048,Book,Stationery,4,15.0,60.0,New York,Wallet,2023,7,3,12.0,low value,Returning
+370,2023-09-27,CUST1048,Refrigerator,Home Appliances,4,500.0,2000.0,Texas,Debit Card,2023,9,3,400.0,high value,Returning
+274,2023-10-14,CUST1048,Headphones,Electronics,3,50.0,150.0,Texas,Debit Card,2023,10,4,30.0,low value,Returning
+478,2023-11-14,CUST1048,Book,Stationery,3,15.0,45.0,Texas,COD,2023,11,4,9.0,low value,Returning
+114,2023-12-13,CUST1048,Microwave,Home Appliances,5,150.0,750.0,Florida,Debit Card,2023,12,4,150.0,high value,Returning
+21,2023-02-02,CUST1049,Notebook,Stationery,5,5.0,25.0,Florida,Wallet,2023,2,1,5.0,low value,New
+472,2023-07-31,CUST1049,Laptop,Electronics,3,600.0,1800.0,New York,Wallet,2023,7,3,360.0,high value,Returning
+288,2023-01-28,CUST1050,Laptop,Electronics,4,600.0,2400.0,Illinois,UPI,2023,1,1,480.0,high value,New
+246,2023-04-23,CUST1050,Microwave,Home Appliances,1,150.0,150.0,Illinois,Credit Card,2023,4,2,30.0,low value,Returning
+450,2023-05-17,CUST1050,Washing Machine,Home Appliances,3,300.0,900.0,New York,UPI,2023,5,2,180.0,high value,Returning
+319,2023-07-07,CUST1050,Shoes,Fashion,5,60.0,300.0,Texas,UPI,2023,7,3,60.0,low value,Returning
+492,2023-07-11,CUST1050,Jacket,Fashion,4,80.0,320.0,Florida,Wallet,2023,7,3,64.0,low value,Returning
+353,2023-01-24,CUST1051,Book,Stationery,3,15.0,45.0,New York,Wallet,2023,1,1,9.0,low value,New
+138,2023-02-03,CUST1051,Bag,Stationery,1,25.0,25.0,Florida,Credit Card,2023,2,1,5.0,low value,Returning
+452,2023-02-17,CUST1051,Headphones,Electronics,1,50.0,50.0,Florida,COD,2023,2,1,10.0,low value,Returning
+396,2023-03-23,CUST1051,Pen,Stationery,3,2.0,6.0,Illinois,UPI,2023,3,1,1.1999999999999993,low value,Returning
+226,2023-04-27,CUST1052,Notebook,Stationery,4,5.0,20.0,Texas,COD,2023,4,2,4.0,low value,New
+157,2023-06-18,CUST1052,Tablet,Electronics,2,250.0,500.0,Florida,UPI,2023,6,2,100.0,low value,Returning
+156,2023-06-28,CUST1052,Headphones,Electronics,4,50.0,200.0,Texas,UPI,2023,6,2,40.0,low value,Returning
+160,2023-08-25,CUST1052,Laptop,Electronics,5,600.0,3000.0,New York,Debit Card,2023,8,3,600.0,high value,Returning
+207,2023-11-12,CUST1052,Tablet,Electronics,4,250.0,1000.0,Texas,Credit Card,2023,11,4,200.0,high value,Returning
+51,2023-02-11,CUST1053,Smartphone,Electronics,5,400.0,2000.0,Illinois,Wallet,2023,2,1,400.0,high value,New
+99,2023-04-16,CUST1053,Notebook,Stationery,1,5.0,5.0,Florida,Wallet,2023,4,2,1.0,low value,Returning
+298,2023-10-20,CUST1053,Mixer,Home Appliances,2,100.0,200.0,California,Credit Card,2023,10,4,40.0,low value,Returning
+415,2023-12-05,CUST1053,Tablet,Electronics,1,250.0,250.0,Illinois,Credit Card,2023,12,4,50.0,low value,Returning
+46,2023-05-27,CUST1054,Washing Machine,Home Appliances,4,300.0,1200.0,Illinois,COD,2023,5,2,240.0,high value,New
+297,2023-05-30,CUST1054,Jacket,Fashion,2,80.0,160.0,New York,Wallet,2023,5,2,32.0,low value,Returning
+105,2023-11-26,CUST1054,Laptop,Electronics,1,600.0,600.0,California,COD,2023,11,4,120.0,high value,Returning
+229,2023-02-17,CUST1055,Headphones,Electronics,1,50.0,50.0,New York,UPI,2023,2,1,10.0,low value,New
+461,2023-02-20,CUST1055,Mixer,Home Appliances,1,100.0,100.0,California,Credit Card,2023,2,1,20.0,low value,Returning
+118,2023-02-24,CUST1055,Notebook,Stationery,4,5.0,20.0,Texas,COD,2023,2,1,4.0,low value,Returning
+254,2023-05-05,CUST1055,Notebook,Stationery,1,5.0,5.0,Illinois,COD,2023,5,2,1.0,low value,Returning
+76,2023-06-10,CUST1055,Notebook,Stationery,3,5.0,15.0,Illinois,Wallet,2023,6,2,3.0,low value,Returning
+308,2023-07-08,CUST1055,Washing Machine,Home Appliances,1,300.0,300.0,Florida,COD,2023,7,3,60.0,low value,Returning
+367,2023-01-10,CUST1056,Tablet,Electronics,2,250.0,500.0,Texas,COD,2023,1,1,100.0,low value,New
+318,2023-07-10,CUST1056,Pen,Stationery,3,2.0,6.0,New York,Wallet,2023,7,3,1.1999999999999993,low value,Returning
+84,2023-08-15,CUST1056,Refrigerator,Home Appliances,4,500.0,2000.0,California,Wallet,2023,8,3,400.0,high value,Returning
+208,2023-08-16,CUST1056,Mixer,Home Appliances,2,100.0,200.0,California,UPI,2023,8,3,40.0,low value,Returning
+323,2023-02-07,CUST1057,Tablet,Electronics,2,250.0,500.0,California,COD,2023,2,1,100.0,low value,New
+312,2023-06-06,CUST1057,Refrigerator,Home Appliances,3,500.0,1500.0,Illinois,COD,2023,6,2,300.0,high value,Returning
+313,2023-06-29,CUST1057,T-Shirt,Fashion,4,20.0,80.0,New York,UPI,2023,6,2,16.0,low value,Returning
+141,2023-07-14,CUST1057,Jacket,Fashion,5,80.0,400.0,Florida,UPI,2023,7,3,80.0,low value,Returning
+263,2023-08-25,CUST1057,Headphones,Electronics,3,50.0,150.0,New York,Credit Card,2023,8,3,30.0,low value,Returning
+218,2023-09-01,CUST1057,Tablet,Electronics,1,250.0,250.0,Texas,Wallet,2023,9,3,50.0,low value,Returning
+54,2023-01-05,CUST1058,Refrigerator,Home Appliances,1,500.0,500.0,Illinois,Wallet,2023,1,1,100.0,low value,New
+158,2023-01-19,CUST1058,Book,Stationery,5,15.0,75.0,New York,UPI,2023,1,1,15.0,low value,Returning
+398,2023-03-20,CUST1058,Shoes,Fashion,4,60.0,240.0,Illinois,UPI,2023,3,1,48.0,low value,Returning
+167,2023-05-05,CUST1058,Bag,Stationery,4,25.0,100.0,Illinois,Debit Card,2023,5,2,20.0,low value,Returning
+240,2023-08-03,CUST1058,Jeans,Fashion,4,40.0,160.0,Texas,Debit Card,2023,8,3,32.0,low value,Returning
+176,2023-09-27,CUST1058,Pen,Stationery,1,2.0,2.0,New York,Debit Card,2023,9,3,0.3999999999999999,low value,Returning
+253,2023-11-13,CUST1058,Refrigerator,Home Appliances,2,500.0,1000.0,Texas,Credit Card,2023,11,4,200.0,high value,Returning
+17,2023-11-26,CUST1058,Bag,Stationery,4,25.0,100.0,California,UPI,2023,11,4,20.0,low value,Returning
+165,2023-02-28,CUST1059,Headphones,Electronics,2,50.0,100.0,New York,Debit Card,2023,2,1,20.0,low value,New
+150,2023-03-05,CUST1059,Microwave,Home Appliances,4,150.0,600.0,Texas,COD,2023,3,1,120.0,high value,Returning
+177,2023-02-08,CUST1060,Notebook,Stationery,2,5.0,10.0,Texas,UPI,2023,2,1,2.0,low value,New
+108,2023-02-11,CUST1060,Notebook,Stationery,3,5.0,15.0,New York,Wallet,2023,2,1,3.0,low value,Returning
+37,2023-10-23,CUST1060,Shoes,Fashion,5,60.0,300.0,California,COD,2023,10,4,60.0,low value,Returning
+266,2023-11-06,CUST1060,Jeans,Fashion,3,40.0,120.0,Illinois,Debit Card,2023,11,4,24.0,low value,Returning
+382,2023-12-01,CUST1060,T-Shirt,Fashion,4,20.0,80.0,Florida,Debit Card,2023,12,4,16.0,low value,Returning
+493,2023-01-13,CUST1061,Shoes,Fashion,3,60.0,180.0,New York,UPI,2023,1,1,36.0,low value,New
+392,2023-03-13,CUST1061,Tablet,Electronics,2,250.0,500.0,Texas,Debit Card,2023,3,1,100.0,low value,Returning
+197,2023-05-12,CUST1061,Washing Machine,Home Appliances,2,300.0,600.0,Texas,UPI,2023,5,2,120.0,high value,Returning
+100,2023-07-14,CUST1061,Laptop,Electronics,5,600.0,3000.0,New York,UPI,2023,7,3,600.0,high value,Returning
+171,2023-10-03,CUST1061,Shoes,Fashion,4,60.0,240.0,Texas,UPI,2023,10,4,48.0,low value,Returning
+365,2023-10-26,CUST1061,Jacket,Fashion,1,80.0,80.0,California,Wallet,2023,10,4,16.0,low value,Returning
+487,2023-11-03,CUST1061,Headphones,Electronics,4,50.0,200.0,Illinois,COD,2023,11,4,40.0,low value,Returning
+233,2023-12-03,CUST1061,Jeans,Fashion,2,40.0,80.0,California,Credit Card,2023,12,4,16.0,low value,Returning
+44,2023-07-28,CUST1062,Jacket,Fashion,2,80.0,160.0,Florida,Debit Card,2023,7,3,32.0,low value,New
+463,2023-08-19,CUST1062,Laptop,Electronics,3,600.0,1800.0,California,UPI,2023,8,3,360.0,high value,Returning
+36,2023-12-09,CUST1062,Jacket,Fashion,3,80.0,240.0,California,Wallet,2023,12,4,48.0,low value,Returning
+309,2023-04-06,CUST1063,Book,Stationery,3,15.0,45.0,Florida,UPI,2023,4,2,9.0,low value,New
+435,2023-09-20,CUST1063,Washing Machine,Home Appliances,3,300.0,900.0,Florida,Credit Card,2023,9,3,180.0,high value,Returning
+151,2023-10-04,CUST1063,Washing Machine,Home Appliances,5,300.0,1500.0,Florida,Credit Card,2023,10,4,300.0,high value,Returning
+485,2023-12-11,CUST1063,Headphones,Electronics,4,50.0,200.0,California,UPI,2023,12,4,40.0,low value,Returning
+117,2023-02-05,CUST1064,Notebook,Stationery,3,5.0,15.0,Texas,Credit Card,2023,2,1,3.0,low value,New
+24,2023-05-15,CUST1064,Pen,Stationery,1,2.0,2.0,California,Wallet,2023,5,2,0.3999999999999999,low value,Returning
+283,2023-07-15,CUST1064,Pen,Stationery,3,2.0,6.0,Illinois,COD,2023,7,3,1.1999999999999993,low value,Returning
+332,2023-08-10,CUST1064,T-Shirt,Fashion,2,20.0,40.0,New York,Credit Card,2023,8,3,8.0,low value,Returning
+25,2023-11-24,CUST1064,Tablet,Electronics,3,250.0,750.0,Illinois,Debit Card,2023,11,4,150.0,high value,Returning
+256,2023-02-09,CUST1065,Refrigerator,Home Appliances,2,500.0,1000.0,New York,Wallet,2023,2,1,200.0,high value,New
+348,2023-09-13,CUST1065,Jeans,Fashion,2,40.0,80.0,Florida,COD,2023,9,3,16.0,low value,Returning
+168,2023-11-03,CUST1065,Book,Stationery,2,15.0,30.0,California,Credit Card,2023,11,4,6.0,low value,Returning
+359,2023-11-07,CUST1065,Pen,Stationery,2,2.0,4.0,California,UPI,2023,11,4,0.7999999999999998,low value,Returning
+32,2023-08-13,CUST1066,Book,Stationery,3,15.0,45.0,Florida,Credit Card,2023,8,3,9.0,low value,New
+421,2023-12-05,CUST1066,Microwave,Home Appliances,2,150.0,300.0,California,COD,2023,12,4,60.0,low value,Returning
+447,2023-01-09,CUST1067,Notebook,Stationery,1,5.0,5.0,Texas,Wallet,2023,1,1,1.0,low value,New
+400,2023-02-11,CUST1067,Jacket,Fashion,5,80.0,400.0,Florida,Wallet,2023,2,1,80.0,low value,Returning
+183,2023-05-06,CUST1067,Notebook,Stationery,2,5.0,10.0,Florida,Wallet,2023,5,2,2.0,low value,Returning
+224,2023-11-02,CUST1067,Refrigerator,Home Appliances,4,500.0,2000.0,Texas,COD,2023,11,4,400.0,high value,Returning
+281,2023-04-30,CUST1068,Microwave,Home Appliances,4,150.0,600.0,California,UPI,2023,4,2,120.0,high value,New
+249,2023-07-14,CUST1068,T-Shirt,Fashion,2,20.0,40.0,California,Wallet,2023,7,3,8.0,low value,Returning
+101,2023-08-03,CUST1068,Microwave,Home Appliances,4,150.0,600.0,Illinois,Wallet,2023,8,3,120.0,high value,Returning
+413,2023-08-06,CUST1068,Pen,Stationery,5,2.0,10.0,Florida,Debit Card,2023,8,3,2.0,low value,Returning
+8,2023-08-24,CUST1068,Washing Machine,Home Appliances,1,300.0,300.0,New York,COD,2023,8,3,60.0,low value,Returning
+361,2023-09-18,CUST1068,Refrigerator,Home Appliances,5,500.0,2500.0,Florida,Wallet,2023,9,3,500.0,high value,Returning
+78,2023-09-24,CUST1068,Notebook,Stationery,1,5.0,5.0,California,UPI,2023,9,3,1.0,low value,Returning
+18,2023-10-15,CUST1068,Shoes,Fashion,2,60.0,120.0,Texas,Wallet,2023,10,4,24.0,low value,Returning
+104,2023-11-15,CUST1068,Pen,Stationery,2,2.0,4.0,New York,COD,2023,11,4,0.7999999999999998,low value,Returning
+26,2023-03-24,CUST1069,Shoes,Fashion,3,60.0,180.0,Illinois,Credit Card,2023,3,1,36.0,low value,New
+96,2023-06-13,CUST1069,Washing Machine,Home Appliances,3,300.0,900.0,New York,Debit Card,2023,6,2,180.0,high value,Returning
+371,2023-06-25,CUST1069,Pen,Stationery,5,2.0,10.0,Texas,UPI,2023,6,2,2.0,low value,Returning
+306,2023-07-23,CUST1069,Microwave,Home Appliances,5,150.0,750.0,Florida,UPI,2023,7,3,150.0,high value,Returning
+299,2023-09-27,CUST1069,Mixer,Home Appliances,1,100.0,100.0,Illinois,Wallet,2023,9,3,20.0,low value,Returning
+387,2023-11-25,CUST1069,Microwave,Home Appliances,4,150.0,600.0,Illinois,COD,2023,11,4,120.0,high value,Returning
+43,2023-11-30,CUST1069,Tablet,Electronics,1,250.0,250.0,New York,Credit Card,2023,11,4,50.0,low value,Returning
+375,2023-12-13,CUST1069,Tablet,Electronics,5,250.0,1250.0,Florida,COD,2023,12,4,250.0,high value,Returning
+135,2023-01-28,CUST1070,Washing Machine,Home Appliances,1,300.0,300.0,Texas,Debit Card,2023,1,1,60.0,low value,New
+144,2023-03-30,CUST1070,T-Shirt,Fashion,2,20.0,40.0,New York,Debit Card,2023,3,1,8.0,low value,Returning
+433,2023-05-03,CUST1070,Jeans,Fashion,4,40.0,160.0,Texas,UPI,2023,5,2,32.0,low value,Returning
+22,2023-05-09,CUST1070,Pen,Stationery,5,2.0,10.0,New York,Credit Card,2023,5,2,2.0,low value,Returning
+63,2023-08-15,CUST1070,Washing Machine,Home Appliances,2,300.0,600.0,Florida,Wallet,2023,8,3,120.0,high value,Returning
+265,2023-10-25,CUST1070,Book,Stationery,4,15.0,60.0,New York,COD,2023,10,4,12.0,low value,Returning
+65,2023-10-26,CUST1070,Smartphone,Electronics,3,400.0,1200.0,California,COD,2023,10,4,240.0,high value,Returning
+426,2023-01-30,CUST1071,Shoes,Fashion,4,60.0,240.0,Florida,COD,2023,1,1,48.0,low value,New
+422,2023-02-01,CUST1071,Microwave,Home Appliances,3,150.0,450.0,Illinois,Debit Card,2023,2,1,90.0,low value,Returning
+378,2023-05-19,CUST1071,Jeans,Fashion,5,40.0,200.0,Texas,Debit Card,2023,5,2,40.0,low value,Returning
+374,2023-06-28,CUST1071,Refrigerator,Home Appliances,4,500.0,2000.0,Texas,UPI,2023,6,2,400.0,high value,Returning
+469,2023-08-18,CUST1071,T-Shirt,Fashion,4,20.0,80.0,Illinois,Wallet,2023,8,3,16.0,low value,Returning
+344,2023-09-21,CUST1071,Shoes,Fashion,3,60.0,180.0,New York,UPI,2023,9,3,36.0,low value,Returning
+191,2023-01-05,CUST1072,Book,Stationery,3,15.0,45.0,New York,Wallet,2023,1,1,9.0,low value,New
+116,2023-03-03,CUST1072,Microwave,Home Appliances,5,150.0,750.0,New York,UPI,2023,3,1,150.0,high value,Returning
+139,2023-03-18,CUST1072,Smartphone,Electronics,2,400.0,800.0,Texas,Credit Card,2023,3,1,160.0,high value,Returning
+16,2023-04-19,CUST1072,Washing Machine,Home Appliances,1,300.0,300.0,Texas,Debit Card,2023,4,2,60.0,low value,Returning
+28,2023-05-04,CUST1072,Jacket,Fashion,1,80.0,80.0,New York,Credit Card,2023,5,2,16.0,low value,Returning
+390,2023-06-01,CUST1072,Laptop,Electronics,3,600.0,1800.0,California,Debit Card,2023,6,2,360.0,high value,Returning
+82,2023-11-12,CUST1072,Book,Stationery,2,15.0,30.0,Texas,COD,2023,11,4,6.0,low value,Returning
+136,2023-01-07,CUST1073,Bag,Stationery,1,25.0,25.0,Texas,COD,2023,1,1,5.0,low value,New
+327,2023-10-11,CUST1073,Laptop,Electronics,3,600.0,1800.0,Texas,COD,2023,10,4,360.0,high value,Returning
+153,2023-12-12,CUST1073,Headphones,Electronics,2,50.0,100.0,Illinois,Credit Card,2023,12,4,20.0,low value,Returning
+155,2023-04-03,CUST1074,Pen,Stationery,3,2.0,6.0,Florida,COD,2023,4,2,1.1999999999999993,low value,New
+350,2023-04-21,CUST1074,Pen,Stationery,2,2.0,4.0,Texas,Credit Card,2023,4,2,0.7999999999999998,low value,Returning
+438,2023-10-27,CUST1074,Washing Machine,Home Appliances,5,300.0,1500.0,Florida,UPI,2023,10,4,300.0,high value,Returning
+128,2023-12-06,CUST1074,Jacket,Fashion,3,80.0,240.0,Texas,COD,2023,12,4,48.0,low value,Returning
+230,2023-01-31,CUST1075,Shoes,Fashion,5,60.0,300.0,Illinois,Wallet,2023,1,1,60.0,low value,New
+2,2023-02-14,CUST1075,Tablet,Electronics,5,250.0,1250.0,Florida,Credit Card,2023,2,1,250.0,high value,Returning
+483,2023-04-13,CUST1075,Tablet,Electronics,5,250.0,1250.0,Illinois,Debit Card,2023,4,2,250.0,high value,Returning
+170,2023-06-02,CUST1075,Laptop,Electronics,3,600.0,1800.0,Illinois,COD,2023,6,2,360.0,high value,Returning
+206,2023-08-03,CUST1075,Mixer,Home Appliances,5,100.0,500.0,California,COD,2023,8,3,100.0,low value,Returning
+175,2023-09-15,CUST1075,Smartphone,Electronics,2,400.0,800.0,Texas,Credit Card,2023,9,3,160.0,high value,Returning
+351,2023-09-11,CUST1076,Smartphone,Electronics,3,400.0,1200.0,Florida,UPI,2023,9,3,240.0,high value,New
+296,2023-09-13,CUST1076,Headphones,Electronics,1,50.0,50.0,Illinois,Credit Card,2023,9,3,10.0,low value,Returning
+92,2023-10-14,CUST1076,Pen,Stationery,5,2.0,10.0,Texas,COD,2023,10,4,2.0,low value,Returning
+462,2023-11-11,CUST1076,Refrigerator,Home Appliances,5,500.0,2500.0,Florida,UPI,2023,11,4,500.0,high value,Returning
+479,2023-11-30,CUST1076,Refrigerator,Home Appliances,4,500.0,2000.0,California,UPI,2023,11,4,400.0,high value,Returning
+357,2023-04-12,CUST1077,Mixer,Home Appliances,2,100.0,200.0,Illinois,COD,2023,4,2,40.0,low value,New
+192,2023-04-28,CUST1077,Bag,Stationery,3,25.0,75.0,Texas,Debit Card,2023,4,2,15.0,low value,Returning
+222,2023-06-14,CUST1077,Headphones,Electronics,1,50.0,50.0,California,Credit Card,2023,6,2,10.0,low value,Returning
+152,2023-06-15,CUST1077,Smartphone,Electronics,4,400.0,1600.0,Texas,Credit Card,2023,6,2,320.0,high value,Returning
+386,2023-10-18,CUST1077,Laptop,Electronics,3,600.0,1800.0,New York,UPI,2023,10,4,360.0,high value,Returning
+397,2023-07-08,CUST1078,Tablet,Electronics,3,250.0,750.0,California,Debit Card,2023,7,3,150.0,high value,New
+360,2023-07-21,CUST1078,Refrigerator,Home Appliances,2,500.0,1000.0,Texas,Wallet,2023,7,3,200.0,high value,Returning
+355,2023-05-24,CUST1079,Pen,Stationery,5,2.0,10.0,Illinois,Credit Card,2023,5,2,2.0,low value,New
+339,2023-08-02,CUST1079,Jeans,Fashion,5,40.0,200.0,New York,COD,2023,8,3,40.0,low value,Returning
+142,2023-10-19,CUST1079,Notebook,Stationery,3,5.0,15.0,New York,Wallet,2023,10,4,3.0,low value,Returning
+337,2023-12-04,CUST1079,Shoes,Fashion,2,60.0,120.0,Illinois,UPI,2023,12,4,24.0,low value,Returning
+163,2023-01-15,CUST1080,Bag,Stationery,1,25.0,25.0,Illinois,Debit Card,2023,1,1,5.0,low value,New
+270,2023-01-27,CUST1080,Refrigerator,Home Appliances,5,500.0,2500.0,Texas,Credit Card,2023,1,1,500.0,high value,Returning
+9,2023-05-31,CUST1080,Headphones,Electronics,5,50.0,250.0,Illinois,UPI,2023,5,2,50.0,low value,Returning
+500,2023-07-27,CUST1080,Pen,Stationery,2,2.0,4.0,California,Debit Card,2023,7,3,0.7999999999999998,low value,Returning
+88,2023-08-01,CUST1080,Headphones,Electronics,4,50.0,200.0,Illinois,Debit Card,2023,8,3,40.0,low value,Returning
+161,2023-09-13,CUST1080,Mixer,Home Appliances,5,100.0,500.0,Florida,Credit Card,2023,9,3,100.0,low value,Returning
+115,2023-12-20,CUST1080,Headphones,Electronics,5,50.0,250.0,California,Credit Card,2023,12,4,50.0,low value,Returning
+295,2023-08-03,CUST1081,Smartphone,Electronics,2,400.0,800.0,Illinois,COD,2023,8,3,160.0,high value,New
+223,2023-11-16,CUST1081,Shoes,Fashion,3,60.0,180.0,Illinois,Wallet,2023,11,4,36.0,low value,Returning
+260,2023-11-26,CUST1081,Pen,Stationery,5,2.0,10.0,Illinois,UPI,2023,11,4,2.0,low value,Returning
+264,2023-02-09,CUST1082,Mixer,Home Appliances,3,100.0,300.0,New York,Wallet,2023,2,1,60.0,low value,New
+383,2023-05-27,CUST1082,Microwave,Home Appliances,3,150.0,450.0,New York,Credit Card,2023,5,2,90.0,low value,Returning
+330,2023-06-12,CUST1082,Headphones,Electronics,2,50.0,100.0,New York,COD,2023,6,2,20.0,low value,Returning
+389,2023-08-23,CUST1082,Refrigerator,Home Appliances,2,500.0,1000.0,Texas,Debit Card,2023,8,3,200.0,high value,Returning
+209,2023-10-06,CUST1082,Tablet,Electronics,3,250.0,750.0,Texas,Credit Card,2023,10,4,150.0,high value,Returning
+109,2023-04-25,CUST1083,Smartphone,Electronics,3,400.0,1200.0,New York,Credit Card,2023,4,2,240.0,high value,New
+273,2023-06-08,CUST1083,Shoes,Fashion,3,60.0,180.0,Florida,Debit Card,2023,6,2,36.0,low value,Returning
+434,2023-10-01,CUST1083,Book,Stationery,4,15.0,60.0,Texas,UPI,2023,10,4,12.0,low value,Returning
+440,2023-10-09,CUST1083,Jacket,Fashion,4,80.0,320.0,Texas,UPI,2023,10,4,64.0,low value,Returning
+174,2023-12-06,CUST1083,Book,Stationery,4,15.0,60.0,California,COD,2023,12,4,12.0,low value,Returning
+10,2023-01-24,CUST1084,Jeans,Fashion,1,40.0,40.0,California,UPI,2023,1,1,8.0,low value,New
+489,2023-05-08,CUST1084,Headphones,Electronics,1,50.0,50.0,Texas,Debit Card,2023,5,2,10.0,low value,Returning
+58,2023-06-03,CUST1084,Laptop,Electronics,5,600.0,3000.0,New York,Debit Card,2023,6,2,600.0,high value,Returning
+243,2023-08-15,CUST1084,Headphones,Electronics,3,50.0,150.0,Florida,COD,2023,8,3,30.0,low value,Returning
+53,2023-03-09,CUST1085,Washing Machine,Home Appliances,4,300.0,1200.0,Texas,COD,2023,3,1,240.0,high value,New
+52,2023-04-15,CUST1085,Refrigerator,Home Appliances,3,500.0,1500.0,Texas,Debit Card,2023,4,2,300.0,high value,Returning
+186,2023-05-11,CUST1085,Washing Machine,Home Appliances,4,300.0,1200.0,New York,COD,2023,5,2,240.0,high value,Returning
+103,2023-06-22,CUST1085,Laptop,Electronics,4,600.0,2400.0,Florida,Debit Card,2023,6,2,480.0,high value,Returning
+111,2023-08-31,CUST1085,Jacket,Fashion,2,80.0,160.0,New York,Wallet,2023,8,3,32.0,low value,Returning
+122,2023-11-09,CUST1085,Pen,Stationery,5,2.0,10.0,Florida,UPI,2023,11,4,2.0,low value,Returning
+201,2023-02-25,CUST1086,Book,Stationery,3,15.0,45.0,California,COD,2023,2,1,9.0,low value,New
+86,2023-05-01,CUST1086,Refrigerator,Home Appliances,1,500.0,500.0,Texas,Debit Card,2023,5,2,100.0,low value,Returning
+193,2023-05-09,CUST1086,Jeans,Fashion,5,40.0,200.0,California,Credit Card,2023,5,2,40.0,low value,Returning
+178,2023-06-18,CUST1086,Book,Stationery,1,15.0,15.0,Illinois,COD,2023,6,2,3.0,low value,Returning
+200,2023-07-08,CUST1086,Tablet,Electronics,4,250.0,1000.0,Texas,Wallet,2023,7,3,200.0,high value,Returning
+282,2023-07-08,CUST1086,Bag,Stationery,2,25.0,50.0,Illinois,COD,2023,7,3,10.0,low value,Returning
+429,2023-07-13,CUST1086,Smartphone,Electronics,3,400.0,1200.0,Illinois,Wallet,2023,7,3,240.0,high value,Returning
+459,2023-07-19,CUST1086,Jacket,Fashion,5,80.0,400.0,Illinois,UPI,2023,7,3,80.0,low value,Returning
+271,2023-10-13,CUST1086,Refrigerator,Home Appliances,1,500.0,500.0,Florida,UPI,2023,10,4,100.0,low value,Returning
+490,2023-11-27,CUST1086,Smartphone,Electronics,5,400.0,2000.0,Florida,UPI,2023,11,4,400.0,high value,Returning
+228,2023-03-20,CUST1087,Washing Machine,Home Appliances,3,300.0,900.0,Florida,Credit Card,2023,3,1,180.0,high value,New
+464,2023-04-06,CUST1087,Book,Stationery,4,15.0,60.0,Illinois,COD,2023,4,2,12.0,low value,Returning
+64,2023-02-08,CUST1088,Laptop,Electronics,1,600.0,600.0,California,Wallet,2023,2,1,120.0,high value,New
+279,2023-04-03,CUST1088,Shoes,Fashion,2,60.0,120.0,Illinois,Debit Card,2023,4,2,24.0,low value,Returning
+126,2023-05-04,CUST1088,Bag,Stationery,5,25.0,125.0,Florida,COD,2023,5,2,25.0,low value,Returning
+322,2023-05-27,CUST1088,Jeans,Fashion,5,40.0,200.0,Florida,Debit Card,2023,5,2,40.0,low value,Returning
+97,2023-07-16,CUST1088,Shoes,Fashion,2,60.0,120.0,California,Debit Card,2023,7,3,24.0,low value,Returning
+145,2023-08-19,CUST1088,Laptop,Electronics,4,600.0,2400.0,Illinois,COD,2023,8,3,480.0,high value,Returning
+236,2023-12-03,CUST1088,Laptop,Electronics,5,600.0,3000.0,Texas,Credit Card,2023,12,4,600.0,high value,Returning
+190,2023-06-01,CUST1089,Mixer,Home Appliances,5,100.0,500.0,Texas,Credit Card,2023,6,2,100.0,low value,New
+291,2023-08-30,CUST1089,Smartphone,Electronics,3,400.0,1200.0,California,COD,2023,8,3,240.0,high value,Returning
+448,2023-09-15,CUST1089,Microwave,Home Appliances,1,150.0,150.0,Florida,Debit Card,2023,9,3,30.0,low value,Returning
+134,2023-01-08,CUST1090,T-Shirt,Fashion,3,20.0,60.0,Illinois,Debit Card,2023,1,1,12.0,low value,New
+444,2023-02-04,CUST1090,Shoes,Fashion,2,60.0,120.0,California,Credit Card,2023,2,1,24.0,low value,Returning
+268,2023-05-07,CUST1090,T-Shirt,Fashion,1,20.0,20.0,Florida,COD,2023,5,2,4.0,low value,Returning
+373,2023-05-28,CUST1090,Jacket,Fashion,3,80.0,240.0,California,COD,2023,5,2,48.0,low value,Returning
+166,2023-09-18,CUST1090,Bag,Stationery,3,25.0,75.0,Texas,COD,2023,9,3,15.0,low value,Returning
+57,2023-10-06,CUST1090,T-Shirt,Fashion,4,20.0,80.0,Texas,Wallet,2023,10,4,16.0,low value,Returning
+417,2023-12-11,CUST1090,Pen,Stationery,5,2.0,10.0,New York,Debit Card,2023,12,4,2.0,low value,Returning
+325,2023-03-22,CUST1091,Microwave,Home Appliances,3,150.0,450.0,California,UPI,2023,3,1,90.0,low value,New
+4,2023-04-12,CUST1091,Laptop,Electronics,5,600.0,3000.0,Illinois,COD,2023,4,2,600.0,high value,Returning
+466,2023-07-14,CUST1091,Washing Machine,Home Appliances,2,300.0,600.0,California,COD,2023,7,3,120.0,high value,Returning
+132,2023-05-22,CUST1092,Jeans,Fashion,4,40.0,160.0,Illinois,Wallet,2023,5,2,32.0,low value,New
+363,2023-06-07,CUST1092,Notebook,Stationery,5,5.0,25.0,New York,Wallet,2023,6,2,5.0,low value,Returning
+394,2023-10-26,CUST1092,Refrigerator,Home Appliances,3,500.0,1500.0,Illinois,Credit Card,2023,10,4,300.0,high value,Returning
+460,2023-12-19,CUST1092,Book,Stationery,2,15.0,30.0,New York,Wallet,2023,12,4,6.0,low value,Returning
+494,2023-03-01,CUST1093,Notebook,Stationery,1,5.0,5.0,California,UPI,2023,3,1,1.0,low value,New
+119,2023-04-01,CUST1093,Shoes,Fashion,4,60.0,240.0,Illinois,UPI,2023,4,2,48.0,low value,Returning
+343,2023-06-13,CUST1093,Shoes,Fashion,3,60.0,180.0,Texas,COD,2023,6,2,36.0,low value,Returning
+257,2023-06-29,CUST1093,Jeans,Fashion,3,40.0,120.0,California,Debit Card,2023,6,2,24.0,low value,Returning
+120,2023-08-12,CUST1093,Bag,Stationery,4,25.0,100.0,Illinois,UPI,2023,8,3,20.0,low value,Returning
+39,2023-08-28,CUST1093,Notebook,Stationery,4,5.0,20.0,New York,Credit Card,2023,8,3,4.0,low value,Returning
+293,2023-10-08,CUST1093,Jeans,Fashion,2,40.0,80.0,Illinois,Wallet,2023,10,4,16.0,low value,Returning
+409,2023-11-25,CUST1093,T-Shirt,Fashion,2,20.0,40.0,Florida,UPI,2023,11,4,8.0,low value,Returning
+320,2023-01-14,CUST1094,Jacket,Fashion,1,80.0,80.0,California,COD,2023,1,1,16.0,low value,New
+217,2023-03-06,CUST1094,Washing Machine,Home Appliances,1,300.0,300.0,Florida,Wallet,2023,3,1,60.0,low value,Returning
+69,2023-04-02,CUST1094,Notebook,Stationery,1,5.0,5.0,Texas,COD,2023,4,2,1.0,low value,Returning
+437,2023-04-24,CUST1094,Smartphone,Electronics,5,400.0,2000.0,California,Credit Card,2023,4,2,400.0,high value,Returning
+250,2023-07-23,CUST1094,Mixer,Home Appliances,1,100.0,100.0,New York,COD,2023,7,3,20.0,low value,Returning
+302,2023-10-25,CUST1094,Jacket,Fashion,1,80.0,80.0,Texas,Debit Card,2023,10,4,16.0,low value,Returning
+59,2023-02-24,CUST1095,Washing Machine,Home Appliances,1,300.0,300.0,Illinois,Debit Card,2023,2,1,60.0,low value,New
+432,2023-03-02,CUST1095,Jeans,Fashion,2,40.0,80.0,Florida,Debit Card,2023,3,1,16.0,low value,Returning
+180,2023-04-27,CUST1095,Jacket,Fashion,3,80.0,240.0,New York,COD,2023,4,2,48.0,low value,Returning
+255,2023-06-08,CUST1095,Headphones,Electronics,4,50.0,200.0,Texas,Debit Card,2023,6,2,40.0,low value,Returning
+412,2023-01-02,CUST1096,Shoes,Fashion,2,60.0,120.0,New York,UPI,2023,1,1,24.0,low value,New
+399,2023-08-30,CUST1096,Notebook,Stationery,5,5.0,25.0,Illinois,Debit Card,2023,8,3,5.0,low value,Returning
+31,2023-10-04,CUST1096,Notebook,Stationery,2,5.0,10.0,California,UPI,2023,10,4,2.0,low value,Returning
+154,2023-01-21,CUST1097,Washing Machine,Home Appliances,5,300.0,1500.0,California,COD,2023,1,1,300.0,high value,New
+430,2023-04-07,CUST1097,Smartphone,Electronics,1,400.0,400.0,Illinois,Wallet,2023,4,2,80.0,low value,Returning
+107,2023-06-22,CUST1097,Pen,Stationery,3,2.0,6.0,Florida,UPI,2023,6,2,1.1999999999999993,low value,Returning
+131,2023-10-02,CUST1097,Refrigerator,Home Appliances,1,500.0,500.0,California,Debit Card,2023,10,4,100.0,low value,Returning
+140,2023-10-13,CUST1097,Jacket,Fashion,1,80.0,80.0,Florida,Wallet,2023,10,4,16.0,low value,Returning
+237,2023-12-26,CUST1097,T-Shirt,Fashion,3,20.0,60.0,Texas,UPI,2023,12,4,12.0,low value,Returning
+73,2023-02-05,CUST1098,Refrigerator,Home Appliances,3,500.0,1500.0,Texas,UPI,2023,2,1,300.0,high value,New
+159,2023-03-01,CUST1098,Washing Machine,Home Appliances,3,300.0,900.0,Florida,Wallet,2023,3,1,180.0,high value,Returning
+259,2023-04-01,CUST1098,Shoes,Fashion,1,60.0,60.0,Florida,COD,2023,4,2,12.0,low value,Returning
+329,2023-07-30,CUST1098,Bag,Stationery,5,25.0,125.0,Florida,Wallet,2023,7,3,25.0,low value,Returning
+29,2023-09-30,CUST1098,Bag,Stationery,1,25.0,25.0,California,Debit Card,2023,9,3,5.0,low value,Returning
+235,2023-10-15,CUST1098,Jacket,Fashion,4,80.0,320.0,Illinois,Wallet,2023,10,4,64.0,low value,Returning
+420,2023-11-03,CUST1098,Refrigerator,Home Appliances,5,500.0,2500.0,Texas,Debit Card,2023,11,4,500.0,high value,Returning
+381,2023-12-15,CUST1098,Bag,Stationery,1,25.0,25.0,California,Credit Card,2023,12,4,5.0,low value,Returning
+241,2023-06-16,CUST1099,Mixer,Home Appliances,3,100.0,300.0,Illinois,Wallet,2023,6,2,60.0,low value,New
+213,2023-06-18,CUST1099,Jeans,Fashion,2,40.0,80.0,California,Wallet,2023,6,2,16.0,low value,Returning
+70,2023-03-23,CUST1100,Jacket,Fashion,3,80.0,240.0,New York,COD,2023,3,1,48.0,low value,New
+147,2023-05-16,CUST1100,Headphones,Electronics,2,50.0,100.0,Illinois,Debit Card,2023,5,2,20.0,low value,Returning
+169,2023-06-24,CUST1100,Washing Machine,Home Appliances,4,300.0,1200.0,Illinois,UPI,2023,6,2,240.0,high value,Returning
+301,2023-07-02,CUST1100,Washing Machine,Home Appliances,1,300.0,300.0,New York,UPI,2023,7,3,60.0,low value,Returning
+495,2023-08-22,CUST1100,Microwave,Home Appliances,3,150.0,450.0,California,Wallet,2023,8,3,90.0,low value,Returning
+471,2023-11-03,CUST1100,Headphones,Electronics,5,50.0,250.0,Texas,COD,2023,11,4,50.0,low value,Returning
+454,2023-11-27,CUST1100,Bag,Stationery,4,25.0,100.0,Texas,Wallet,2023,11,4,20.0,low value,Returning
+364,2023-12-02,CUST1100,Bag,Stationery,3,25.0,75.0,Illinois,Wallet,2023,12,4,15.0,low value,Returning

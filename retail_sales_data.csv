@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerID,Product,Category,Quantity,UnitPrice,TotalAmount,Region,PaymentMethod
+1,2023-05-21,CUST1031,Tablet,Electronics,1,250,250,California,Debit Card
+2,2023-02-14,CUST1075,Tablet,Electronics,5,250,1250,Florida,Credit Card
+3,2023-04-22,CUST1029,Laptop,Electronics,1,600,600,Illinois,Wallet
+4,2023-04-12,CUST1091,Laptop,Electronics,5,600,3000,Illinois,COD
+5,2023-10-29,CUST1035,Jacket,Fashion,4,80,320,New York,Debit Card
+6,2023-05-23,CUST1019,Notebook,Stationery,3,5,15,California,UPI
+7,2023-07-14,CUST1012,Tablet,Electronics,1,250,250,Texas,UPI
+8,2023-08-24,CUST1068,Washing Machine,Home Appliances,1,300,300,New York,COD
+9,2023-05-31,CUST1080,Headphones,Electronics,5,50,250,Illinois,UPI
+10,2023-01-24,CUST1084,Jeans,Fashion,1,40,40,California,UPI
+11,2023-02-21,CUST1048,Headphones,Electronics,2,50,100,Texas,COD
+12,2023-07-09,CUST1045,Mixer,Home Appliances,2,100,200,California,UPI
+13,2023-11-22,CUST1021,Headphones,Electronics,5,50,250,Illinois,Debit Card
+14,2023-07-14,CUST1034,T-Shirt,Fashion,4,20,80,Illinois,Debit Card
+15,2023-04-28,CUST1004,Refrigerator,Home Appliances,1,500,500,Texas,COD
+16,2023-04-19,CUST1072,Washing Machine,Home Appliances,1,300,300,Texas,Debit Card
+17,2023-11-26,CUST1058,Bag,Stationery,4,25,100,California,UPI
+18,2023-10-15,CUST1068,Shoes,Fashion,2,60,120,Texas,Wallet
+19,2023-07-24,CUST1046,Notebook,Stationery,5,5,25,California,Debit Card
+20,2023-01-25,CUST1014,Bag,Stationery,1,25,25,California,Debit Card
+21,2023-02-02,CUST1049,Notebook,Stationery,5,5,25,Florida,Wallet
+22,2023-05-09,CUST1070,Pen,Stationery,5,2,10,New York,Credit Card
+23,2023-02-27,CUST1037,Washing Machine,Home Appliances,3,300,900,Florida,Debit Card
+24,2023-05-15,CUST1064,Pen,Stationery,1,2,2,California,Wallet
+25,2023-11-24,CUST1064,Tablet,Electronics,3,250,750,Illinois,Debit Card
+26,2023-03-24,CUST1069,Shoes,Fashion,3,60,180,Illinois,Credit Card
+27,2023-01-10,CUST1014,Refrigerator,Home Appliances,4,500,2000,Texas,UPI
+28,2023-05-04,CUST1072,Jacket,Fashion,1,80,80,New York,Credit Card
+29,2023-09-30,CUST1098,Bag,Stationery,1,25,25,California,Debit Card
+30,2023-03-26,CUST1033,Bag,Stationery,5,25,125,Illinois,Wallet
+31,2023-10-04,CUST1096,Notebook,Stationery,2,5,10,California,UPI
+32,2023-08-13,CUST1066,Book,Stationery,3,15,45,Florida,Credit Card
+33,2023-02-02,CUST1043,Jacket,Fashion,2,80,160,New York,Wallet
+34,2023-04-23,CUST1000,Jacket,Fashion,5,80,400,New York,Credit Card
+35,2023-01-17,CUST1042,Jacket,Fashion,1,80,80,New York,Wallet
+36,2023-12-09,CUST1062,Jacket,Fashion,3,80,240,California,Wallet
+37,2023-10-23,CUST1060,Shoes,Fashion,5,60,300,California,COD
+38,2023-02-18,CUST1012,Notebook,Stationery,2,5,10,Florida,UPI
+39,2023-08-28,CUST1093,Notebook,Stationery,4,5,20,New York,Credit Card
+40,2023-06-23,CUST1013,Smartphone,Electronics,4,400,1600,California,Debit Card
+41,2023-08-18,CUST1017,Jeans,Fashion,5,40,200,Florida,Debit Card
+42,2023-05-08,CUST1009,Washing Machine,Home Appliances,4,300,1200,Florida,Wallet
+43,2023-11-30,CUST1069,Tablet,Electronics,1,250,250,New York,Credit Card
+44,2023-07-28,CUST1062,Jacket,Fashion,2,80,160,Florida,Debit Card
+45,2023-03-26,CUST1048,Book,Stationery,1,15,15,New York,COD
+46,2023-05-27,CUST1054,Washing Machine,Home Appliances,4,300,1200,Illinois,COD
+47,2023-06-01,CUST1027,Shoes,Fashion,2,60,120,New York,Wallet
+48,2023-01-30,CUST1006,Smartphone,Electronics,3,400,1200,Illinois,COD
+49,2023-09-18,CUST1010,T-Shirt,Fashion,1,20,20,California,Credit Card
+50,2023-07-26,CUST1015,Headphones,Electronics,2,50,100,Illinois,Debit Card
+51,2023-02-11,CUST1053,Smartphone,Electronics,5,400,2000,Illinois,Wallet
+52,2023-04-15,CUST1085,Refrigerator,Home Appliances,3,500,1500,Texas,Debit Card
+53,2023-03-09,CUST1085,Washing Machine,Home Appliances,4,300,1200,Texas,COD
+54,2023-01-05,CUST1058,Refrigerator,Home Appliances,1,500,500,Illinois,Wallet
+55,2023-10-03,CUST1027,Tablet,Electronics,1,250,250,Illinois,UPI
+56,2023-02-05,CUST1031,Shoes,Fashion,3,60,180,Texas,UPI
+57,2023-10-06,CUST1090,T-Shirt,Fashion,4,20,80,Texas,Wallet
+58,2023-06-03,CUST1084,Laptop,Electronics,5,600,3000,New York,Debit Card
+59,2023-02-24,CUST1095,Washing Machine,Home Appliances,1,300,300,Illinois,Debit Card
+60,2023-11-06,CUST1026,Washing Machine,Home Appliances,3,300,900,Texas,Debit Card
+61,2023-09-08,CUST1032,Washing Machine,Home Appliances,5,300,1500,New York,Credit Card
+62,2023-01-23,CUST1000,Notebook,Stationery,3,5,15,Texas,Debit Card
+63,2023-08-15,CUST1070,Washing Machine,Home Appliances,2,300,600,Florida,Wallet
+64,2023-02-08,CUST1088,Laptop,Electronics,1,600,600,California,Wallet
+65,2023-10-26,CUST1070,Smartphone,Electronics,3,400,1200,California,COD
+66,2023-06-07,CUST1046,Shoes,Fashion,1,60,60,New York,UPI
+67,2023-12-08,CUST1013,Jeans,Fashion,2,40,80,Texas,Wallet
+68,2023-03-21,CUST1030,Notebook,Stationery,5,5,25,California,Debit Card
+69,2023-04-02,CUST1094,Notebook,Stationery,1,5,5,Texas,COD
+70,2023-03-23,CUST1100,Jacket,Fashion,3,80,240,New York,COD
+71,2023-04-24,CUST1025,Smartphone,Electronics,4,400,1600,Florida,UPI
+72,2023-04-25,CUST1003,Microwave,Home Appliances,2,150,300,California,COD
+73,2023-02-05,CUST1098,Refrigerator,Home Appliances,3,500,1500,Texas,UPI
+74,2023-06-19,CUST1003,Book,Stationery,5,15,75,New York,UPI
+75,2023-05-16,CUST1004,T-Shirt,Fashion,5,20,100,New York,Wallet
+76,2023-06-10,CUST1055,Notebook,Stationery,3,5,15,Illinois,Wallet
+77,2023-10-23,CUST1024,Tablet,Electronics,4,250,1000,Texas,Credit Card
+78,2023-09-24,CUST1068,Notebook,Stationery,1,5,5,California,UPI
+79,2023-12-07,CUST1042,Notebook,Stationery,1,5,5,Illinois,UPI
+80,2023-09-17,CUST1039,Tablet,Electronics,3,250,750,Florida,UPI
+81,2023-10-11,CUST1016,Book,Stationery,3,15,45,California,COD
+82,2023-11-12,CUST1072,Book,Stationery,2,15,30,Texas,COD
+83,2023-05-27,CUST1026,Laptop,Electronics,3,600,1800,Florida,Wallet
+84,2023-08-15,CUST1056,Refrigerator,Home Appliances,4,500,2000,California,Wallet
+85,2023-12-04,CUST1010,Bag,Stationery,2,25,50,Texas,Wallet
+86,2023-05-01,CUST1086,Refrigerator,Home Appliances,1,500,500,Texas,Debit Card
+87,2023-01-13,CUST1005,Jeans,Fashion,2,40,80,California,COD
+88,2023-08-01,CUST1080,Headphones,Electronics,4,50,200,Illinois,Debit Card
+89,2023-07-24,CUST1031,Book,Stationery,4,15,60,California,Credit Card
+90,2023-04-23,CUST1022,Tablet,Electronics,4,250,1000,Illinois,COD
+91,2023-05-08,CUST1015,Smartphone,Electronics,5,400,2000,Florida,Debit Card
+92,2023-10-14,CUST1076,Pen,Stationery,5,2,10,Texas,COD
+93,2023-08-17,CUST1020,Notebook,Stationery,5,5,25,Florida,COD
+94,2023-11-23,CUST1035,Washing Machine,Home Appliances,2,300,600,Illinois,COD
+95,2023-08-14,CUST1009,Jacket,Fashion,3,80,240,Texas,Debit Card
+96,2023-06-13,CUST1069,Washing Machine,Home Appliances,3,300,900,New York,Debit Card
+97,2023-07-16,CUST1088,Shoes,Fashion,2,60,120,California,Debit Card
+98,2023-07-28,CUST1042,Headphones,Electronics,4,50,200,Illinois,COD
+99,2023-04-16,CUST1053,Notebook,Stationery,1,5,5,Florida,Wallet
+100,2023-07-14,CUST1061,Laptop,Electronics,5,600,3000,New York,UPI
+101,2023-08-03,CUST1068,Microwave,Home Appliances,4,150,600,Illinois,Wallet
+102,2023-04-23,CUST1034,Jacket,Fashion,4,80,320,Florida,COD
+103,2023-06-22,CUST1085,Laptop,Electronics,4,600,2400,Florida,Debit Card
+104,2023-11-15,CUST1068,Pen,Stationery,2,2,4,New York,COD
+105,2023-11-26,CUST1054,Laptop,Electronics,1,600,600,California,COD
+106,2023-05-14,CUST1048,T-Shirt,Fashion,1,20,20,Texas,Debit Card
+107,2023-06-22,CUST1097,Pen,Stationery,3,2,6,Florida,UPI
+108,2023-02-11,CUST1060,Notebook,Stationery,3,5,15,New York,Wallet
+109,2023-04-25,CUST1083,Smartphone,Electronics,3,400,1200,New York,Credit Card
+110,2023-04-13,CUST1002,Laptop,Electronics,2,600,1200,Illinois,Debit Card
+111,2023-08-31,CUST1085,Jacket,Fashion,2,80,160,New York,Wallet
+112,2023-12-25,CUST1032,Jeans,Fashion,4,40,160,Texas,Debit Card
+113,2023-06-09,CUST1013,Tablet,Electronics,2,250,500,Illinois,Credit Card
+114,2023-12-13,CUST1048,Microwave,Home Appliances,5,150,750,Florida,Debit Card
+115,2023-12-20,CUST1080,Headphones,Electronics,5,50,250,California,Credit Card
+116,2023-03-03,CUST1072,Microwave,Home Appliances,5,150,750,New York,UPI
+117,2023-02-05,CUST1064,Notebook,Stationery,3,5,15,Texas,Credit Card
+118,2023-02-24,CUST1055,Notebook,Stationery,4,5,20,Texas,COD
+119,2023-04-01,CUST1093,Shoes,Fashion,4,60,240,Illinois,UPI
+120,2023-08-12,CUST1093,Bag,Stationery,4,25,100,Illinois,UPI
+121,2023-02-14,CUST1035,Refrigerator,Home Appliances,2,500,1000,Florida,Debit Card
+122,2023-11-09,CUST1085,Pen,Stationery,5,2,10,Florida,UPI
+123,2023-06-16,CUST1023,Laptop,Electronics,4,600,2400,Florida,Debit Card
+124,2023-06-24,CUST1035,Mixer,Home Appliances,3,100,300,Illinois,UPI
+125,2023-04-08,CUST1010,Laptop,Electronics,5,600,3000,California,COD
+126,2023-05-04,CUST1088,Bag,Stationery,5,25,125,Florida,COD
+127,2023-02-17,CUST1037,Pen,Stationery,1,2,2,California,COD
+128,2023-12-06,CUST1074,Jacket,Fashion,3,80,240,Texas,COD
+129,2023-10-09,CUST1042,Mixer,Home Appliances,4,100,400,Texas,COD
+130,2023-05-09,CUST1029,Washing Machine,Home Appliances,3,300,900,New York,Debit Card
+131,2023-10-02,CUST1097,Refrigerator,Home Appliances,1,500,500,California,Debit Card
+132,2023-05-22,CUST1092,Jeans,Fashion,4,40,160,Illinois,Wallet
+133,2023-04-10,CUST1037,Microwave,Home Appliances,1,150,150,California,UPI
+134,2023-01-08,CUST1090,T-Shirt,Fashion,3,20,60,Illinois,Debit Card
+135,2023-01-28,CUST1070,Washing Machine,Home Appliances,1,300,300,Texas,Debit Card
+136,2023-01-07,CUST1073,Bag,Stationery,1,25,25,Texas,COD
+137,2023-06-24,CUST1023,Bag,Stationery,4,25,100,New York,UPI
+138,2023-02-03,CUST1051,Bag,Stationery,1,25,25,Florida,Credit Card
+139,2023-03-18,CUST1072,Smartphone,Electronics,2,400,800,Texas,Credit Card
+140,2023-10-13,CUST1097,Jacket,Fashion,1,80,80,Florida,Wallet
+141,2023-07-14,CUST1057,Jacket,Fashion,5,80,400,Florida,UPI
+142,2023-10-19,CUST1079,Notebook,Stationery,3,5,15,New York,Wallet
+143,2023-11-17,CUST1027,Tablet,Electronics,2,250,500,Texas,Credit Card
+144,2023-03-30,CUST1070,T-Shirt,Fashion,2,20,40,New York,Debit Card
+145,2023-08-19,CUST1088,Laptop,Electronics,4,600,2400,Illinois,COD
+146,2023-04-29,CUST1036,Microwave,Home Appliances,1,150,150,Texas,COD
+147,2023-05-16,CUST1100,Headphones,Electronics,2,50,100,Illinois,Debit Card
+148,2023-10-06,CUST1028,Notebook,Stationery,1,5,5,California,UPI
+149,2023-01-31,CUST1021,Shoes,Fashion,1,60,60,Texas,Wallet
+150,2023-03-05,CUST1059,Microwave,Home Appliances,4,150,600,Texas,COD
+151,2023-10-04,CUST1063,Washing Machine,Home Appliances,5,300,1500,Florida,Credit Card
+152,2023-06-15,CUST1077,Smartphone,Electronics,4,400,1600,Texas,Credit Card
+153,2023-12-12,CUST1073,Headphones,Electronics,2,50,100,Illinois,Credit Card
+154,2023-01-21,CUST1097,Washing Machine,Home Appliances,5,300,1500,California,COD
+155,2023-04-03,CUST1074,Pen,Stationery,3,2,6,Florida,COD
+156,2023-06-28,CUST1052,Headphones,Electronics,4,50,200,Texas,UPI
+157,2023-06-18,CUST1052,Tablet,Electronics,2,250,500,Florida,UPI
+158,2023-01-19,CUST1058,Book,Stationery,5,15,75,New York,UPI
+159,2023-03-01,CUST1098,Washing Machine,Home Appliances,3,300,900,Florida,Wallet
+160,2023-08-25,CUST1052,Laptop,Electronics,5,600,3000,New York,Debit Card
+161,2023-09-13,CUST1080,Mixer,Home Appliances,5,100,500,Florida,Credit Card
+162,2023-10-09,CUST1016,Jeans,Fashion,3,40,120,Texas,COD
+163,2023-01-15,CUST1080,Bag,Stationery,1,25,25,Illinois,Debit Card
+164,2023-10-10,CUST1001,T-Shirt,Fashion,3,20,60,Illinois,COD
+165,2023-02-28,CUST1059,Headphones,Electronics,2,50,100,New York,Debit Card
+166,2023-09-18,CUST1090,Bag,Stationery,3,25,75,Texas,COD
+167,2023-05-05,CUST1058,Bag,Stationery,4,25,100,Illinois,Debit Card
+168,2023-11-03,CUST1065,Book,Stationery,2,15,30,California,Credit Card
+169,2023-06-24,CUST1100,Washing Machine,Home Appliances,4,300,1200,Illinois,UPI
+170,2023-06-02,CUST1075,Laptop,Electronics,3,600,1800,Illinois,COD
+171,2023-10-03,CUST1061,Shoes,Fashion,4,60,240,Texas,UPI
+172,2023-06-14,CUST1024,Book,Stationery,4,15,60,California,Wallet
+173,2023-07-30,CUST1005,Book,Stationery,2,15,30,Texas,COD
+174,2023-12-06,CUST1083,Book,Stationery,4,15,60,California,COD
+175,2023-09-15,CUST1075,Smartphone,Electronics,2,400,800,Texas,Credit Card
+176,2023-09-27,CUST1058,Pen,Stationery,1,2,2,New York,Debit Card
+177,2023-02-08,CUST1060,Notebook,Stationery,2,5,10,Texas,UPI
+178,2023-06-18,CUST1086,Book,Stationery,1,15,15,Illinois,COD
+179,2023-10-05,CUST1004,Refrigerator,Home Appliances,4,500,2000,Illinois,Credit Card
+180,2023-04-27,CUST1095,Jacket,Fashion,3,80,240,New York,COD
+181,2023-08-16,CUST1021,Tablet,Electronics,1,250,250,Texas,Credit Card
+182,2023-01-29,CUST1037,Smartphone,Electronics,3,400,1200,Texas,UPI
+183,2023-05-06,CUST1067,Notebook,Stationery,2,5,10,Florida,Wallet
+184,2023-03-31,CUST1010,T-Shirt,Fashion,2,20,40,Illinois,COD
+185,2023-10-26,CUST1018,Jacket,Fashion,4,80,320,California,COD
+186,2023-05-11,CUST1085,Washing Machine,Home Appliances,4,300,1200,New York,COD
+187,2023-03-22,CUST1009,Microwave,Home Appliances,5,150,750,Florida,UPI
+188,2023-12-20,CUST1032,Microwave,Home Appliances,4,150,600,Florida,UPI
+189,2023-09-05,CUST1013,Jeans,Fashion,4,40,160,California,COD
+190,2023-06-01,CUST1089,Mixer,Home Appliances,5,100,500,Texas,Credit Card
+191,2023-01-05,CUST1072,Book,Stationery,3,15,45,New York,Wallet
+192,2023-04-28,CUST1077,Bag,Stationery,3,25,75,Texas,Debit Card
+193,2023-05-09,CUST1086,Jeans,Fashion,5,40,200,California,Credit Card
+194,2023-08-14,CUST1004,Smartphone,Electronics,3,400,1200,Illinois,UPI
+195,2023-06-01,CUST1041,Shoes,Fashion,1,60,60,Florida,Debit Card
+196,2023-10-04,CUST1046,Jeans,Fashion,2,40,80,Illinois,Wallet
+197,2023-05-12,CUST1061,Washing Machine,Home Appliances,2,300,600,Texas,UPI
+198,2023-02-08,CUST1018,Tablet,Electronics,4,250,1000,California,COD
+199,2023-07-22,CUST1001,Mixer,Home Appliances,1,100,100,Texas,Wallet
+200,2023-07-08,CUST1086,Tablet,Electronics,4,250,1000,Texas,Wallet
+201,2023-02-25,CUST1086,Book,Stationery,3,15,45,California,COD
+202,2023-10-15,CUST1041,Laptop,Electronics,5,600,3000,Illinois,Debit Card
+203,2023-12-25,CUST1038,Headphones,Electronics,4,50,200,Florida,Credit Card
+204,2023-01-20,CUST1038,Shoes,Fashion,1,60,60,Florida,Credit Card
+205,2023-10-03,CUST1017,Tablet,Electronics,2,250,500,Florida,COD
+206,2023-08-03,CUST1075,Mixer,Home Appliances,5,100,500,California,COD
+207,2023-11-12,CUST1052,Tablet,Electronics,4,250,1000,Texas,Credit Card
+208,2023-08-16,CUST1056,Mixer,Home Appliances,2,100,200,California,UPI
+209,2023-10-06,CUST1082,Tablet,Electronics,3,250,750,Texas,Credit Card
+210,2023-04-08,CUST1015,Book,Stationery,3,15,45,Florida,Credit Card
+211,2023-01-11,CUST1006,Jeans,Fashion,5,40,200,Texas,Debit Card
+212,2023-04-16,CUST1008,Shoes,Fashion,5,60,300,Illinois,Debit Card
+213,2023-06-18,CUST1099,Jeans,Fashion,2,40,80,California,Wallet
+214,2023-03-16,CUST1016,Laptop,Electronics,3,600,1800,Illinois,UPI
+215,2023-12-05,CUST1003,T-Shirt,Fashion,1,20,20,California,Credit Card
+216,2023-10-29,CUST1041,Mixer,Home Appliances,2,100,200,New York,Debit Card
+217,2023-03-06,CUST1094,Washing Machine,Home Appliances,1,300,300,Florida,Wallet
+218,2023-09-01,CUST1057,Tablet,Electronics,1,250,250,Texas,Wallet
+219,2023-09-15,CUST1028,Tablet,Electronics,4,250,1000,Illinois,Credit Card
+220,2023-11-26,CUST1003,Microwave,Home Appliances,4,150,600,New York,COD
+221,2023-12-18,CUST1013,Book,Stationery,4,15,60,Florida,COD
+222,2023-06-14,CUST1077,Headphones,Electronics,1,50,50,California,Credit Card
+223,2023-11-16,CUST1081,Shoes,Fashion,3,60,180,Illinois,Wallet
+224,2023-11-02,CUST1067,Refrigerator,Home Appliances,4,500,2000,Texas,COD
+225,2023-12-26,CUST1014,Notebook,Stationery,1,5,5,Illinois,Debit Card
+226,2023-04-27,CUST1052,Notebook,Stationery,4,5,20,Texas,COD
+227,2023-02-18,CUST1040,Book,Stationery,4,15,60,Florida,UPI
+228,2023-03-20,CUST1087,Washing Machine,Home Appliances,3,300,900,Florida,Credit Card
+229,2023-02-17,CUST1055,Headphones,Electronics,1,50,50,New York,UPI
+230,2023-01-31,CUST1075,Shoes,Fashion,5,60,300,Illinois,Wallet
+231,2023-07-30,CUST1045,Refrigerator,Home Appliances,1,500,500,Florida,Credit Card
+232,2023-06-09,CUST1045,Microwave,Home Appliances,5,150,750,New York,Wallet
+233,2023-12-03,CUST1061,Jeans,Fashion,2,40,80,California,Credit Card
+234,2023-07-08,CUST1014,Mixer,Home Appliances,5,100,500,Texas,Wallet
+235,2023-10-15,CUST1098,Jacket,Fashion,4,80,320,Illinois,Wallet
+236,2023-12-03,CUST1088,Laptop,Electronics,5,600,3000,Texas,Credit Card
+237,2023-12-26,CUST1097,T-Shirt,Fashion,3,20,60,Texas,UPI
+238,2023-04-03,CUST1018,Mixer,Home Appliances,1,100,100,Illinois,COD
+239,2023-11-21,CUST1003,Headphones,Electronics,2,50,100,New York,Wallet
+240,2023-08-03,CUST1058,Jeans,Fashion,4,40,160,Texas,Debit Card
+241,2023-06-16,CUST1099,Mixer,Home Appliances,3,100,300,Illinois,Wallet
+242,2023-03-21,CUST1020,Headphones,Electronics,1,50,50,Illinois,Credit Card
+243,2023-08-15,CUST1084,Headphones,Electronics,3,50,150,Florida,COD
+244,2023-05-20,CUST1027,Pen,Stationery,4,2,8,Illinois,Credit Card
+245,2023-02-26,CUST1036,Mixer,Home Appliances,4,100,400,Illinois,COD
+246,2023-04-23,CUST1050,Microwave,Home Appliances,1,150,150,Illinois,Credit Card
+247,2023-06-04,CUST1027,Laptop,Electronics,2,600,1200,California,UPI
+248,2023-03-03,CUST1000,Microwave,Home Appliances,3,150,450,Florida,COD
+249,2023-07-14,CUST1068,T-Shirt,Fashion,2,20,40,California,Wallet
+250,2023-07-23,CUST1094,Mixer,Home Appliances,1,100,100,New York,COD
+251,2023-02-09,CUST1040,Laptop,Electronics,4,600,2400,Illinois,COD
+252,2023-05-29,CUST1014,Book,Stationery,4,15,60,Florida,Credit Card
+253,2023-11-13,CUST1058,Refrigerator,Home Appliances,2,500,1000,Texas,Credit Card
+254,2023-05-05,CUST1055,Notebook,Stationery,1,5,5,Illinois,COD
+255,2023-06-08,CUST1095,Headphones,Electronics,4,50,200,Texas,Debit Card
+256,2023-02-09,CUST1065,Refrigerator,Home Appliances,2,500,1000,New York,Wallet
+257,2023-06-29,CUST1093,Jeans,Fashion,3,40,120,California,Debit Card
+258,2023-05-12,CUST1025,Tablet,Electronics,2,250,500,California,Wallet
+259,2023-04-01,CUST1098,Shoes,Fashion,1,60,60,Florida,COD
+260,2023-11-26,CUST1081,Pen,Stationery,5,2,10,Illinois,UPI
+261,2023-08-14,CUST1008,Refrigerator,Home Appliances,2,500,1000,Florida,COD
+262,2023-10-30,CUST1007,Microwave,Home Appliances,3,150,450,Texas,Wallet
+263,2023-08-25,CUST1057,Headphones,Electronics,3,50,150,New York,Credit Card
+264,2023-02-09,CUST1082,Mixer,Home Appliances,3,100,300,New York,Wallet
+265,2023-10-25,CUST1070,Book,Stationery,4,15,60,New York,COD
+266,2023-11-06,CUST1060,Jeans,Fashion,3,40,120,Illinois,Debit Card
+267,2023-02-22,CUST1043,Smartphone,Electronics,4,400,1600,New York,Wallet
+268,2023-05-07,CUST1090,T-Shirt,Fashion,1,20,20,Florida,COD
+269,2023-07-10,CUST1036,T-Shirt,Fashion,3,20,60,Florida,COD
+270,2023-01-27,CUST1080,Refrigerator,Home Appliances,5,500,2500,Texas,Credit Card
+271,2023-10-13,CUST1086,Refrigerator,Home Appliances,1,500,500,Florida,UPI
+272,2023-03-18,CUST1042,Washing Machine,Home Appliances,5,300,1500,New York,Wallet
+273,2023-06-08,CUST1083,Shoes,Fashion,3,60,180,Florida,Debit Card
+274,2023-10-14,CUST1048,Headphones,Electronics,3,50,150,Texas,Debit Card
+275,2023-09-18,CUST1046,Headphones,Electronics,4,50,200,New York,UPI
+276,2023-04-20,CUST1043,Microwave,Home Appliances,2,150,300,Florida,Debit Card
+277,2023-03-21,CUST1009,Jacket,Fashion,2,80,160,Texas,Credit Card
+278,2023-11-13,CUST1016,Smartphone,Electronics,3,400,1200,Illinois,COD
+279,2023-04-03,CUST1088,Shoes,Fashion,2,60,120,Illinois,Debit Card
+280,2023-07-30,CUST1046,Pen,Stationery,1,2,2,California,COD
+281,2023-04-30,CUST1068,Microwave,Home Appliances,4,150,600,California,UPI
+282,2023-07-08,CUST1086,Bag,Stationery,2,25,50,Illinois,COD
+283,2023-07-15,CUST1064,Pen,Stationery,3,2,6,Illinois,COD
+284,2023-11-06,CUST1017,T-Shirt,Fashion,2,20,40,Texas,Credit Card
+285,2023-10-11,CUST1013,Bag,Stationery,3,25,75,Illinois,Credit Card
+286,2023-03-24,CUST1034,Microwave,Home Appliances,1,150,150,Florida,Wallet
+287,2023-02-16,CUST1028,Shoes,Fashion,4,60,240,Florida,UPI
+288,2023-01-28,CUST1050,Laptop,Electronics,4,600,2400,Illinois,UPI
+289,2023-02-11,CUST1047,Jacket,Fashion,4,80,320,California,Credit Card
+290,2023-11-29,CUST1042,Refrigerator,Home Appliances,1,500,500,California,Debit Card
+291,2023-08-30,CUST1089,Smartphone,Electronics,3,400,1200,California,COD
+292,2023-01-03,CUST1010,Pen,Stationery,5,2,10,New York,UPI
+293,2023-10-08,CUST1093,Jeans,Fashion,2,40,80,Illinois,Wallet
+294,2023-05-28,CUST1030,Notebook,Stationery,1,5,5,Texas,Credit Card
+295,2023-08-03,CUST1081,Smartphone,Electronics,2,400,800,Illinois,COD
+296,2023-09-13,CUST1076,Headphones,Electronics,1,50,50,Illinois,Credit Card
+297,2023-05-30,CUST1054,Jacket,Fashion,2,80,160,New York,Wallet
+298,2023-10-20,CUST1053,Mixer,Home Appliances,2,100,200,California,Credit Card
+299,2023-09-27,CUST1069,Mixer,Home Appliances,1,100,100,Illinois,Wallet
+300,2023-08-29,CUST1005,Laptop,Electronics,4,600,2400,Florida,UPI
+301,2023-07-02,CUST1100,Washing Machine,Home Appliances,1,300,300,New York,UPI
+302,2023-10-25,CUST1094,Jacket,Fashion,1,80,80,Texas,Debit Card
+303,2023-10-07,CUST1043,Smartphone,Electronics,3,400,1200,California,COD
+304,2023-03-11,CUST1008,Bag,Stationery,2,25,50,Florida,Credit Card
+305,2023-01-23,CUST1025,Microwave,Home Appliances,2,150,300,New York,UPI
+306,2023-07-23,CUST1069,Microwave,Home Appliances,5,150,750,Florida,UPI
+307,2023-05-27,CUST1045,Smartphone,Electronics,2,400,800,New York,UPI
+308,2023-07-08,CUST1055,Washing Machine,Home Appliances,1,300,300,Florida,COD
+309,2023-04-06,CUST1063,Book,Stationery,3,15,45,Florida,UPI
+310,2023-08-06,CUST1010,Washing Machine,Home Appliances,1,300,300,Florida,Wallet
+311,2023-05-31,CUST1041,T-Shirt,Fashion,5,20,100,New York,Credit Card
+312,2023-06-06,CUST1057,Refrigerator,Home Appliances,3,500,1500,Illinois,COD
+313,2023-06-29,CUST1057,T-Shirt,Fashion,4,20,80,New York,UPI
+314,2023-11-24,CUST1007,Notebook,Stationery,3,5,15,New York,COD
+315,2023-12-14,CUST1020,Mixer,Home Appliances,5,100,500,New York,Debit Card
+316,2023-03-06,CUST1008,Pen,Stationery,1,2,2,California,UPI
+317,2023-10-18,CUST1004,Mixer,Home Appliances,4,100,400,Illinois,Debit Card
+318,2023-07-10,CUST1056,Pen,Stationery,3,2,6,New York,Wallet
+319,2023-07-07,CUST1050,Shoes,Fashion,5,60,300,Texas,UPI
+320,2023-01-14,CUST1094,Jacket,Fashion,1,80,80,California,COD
+321,2023-03-02,CUST1033,Book,Stationery,5,15,75,Texas,COD
+322,2023-05-27,CUST1088,Jeans,Fashion,5,40,200,Florida,Debit Card
+323,2023-02-07,CUST1057,Tablet,Electronics,2,250,500,California,COD
+324,2023-12-08,CUST1044,Headphones,Electronics,3,50,150,New York,Wallet
+325,2023-03-22,CUST1091,Microwave,Home Appliances,3,150,450,California,UPI
+326,2023-04-13,CUST1017,Jacket,Fashion,1,80,80,California,COD
+327,2023-10-11,CUST1073,Laptop,Electronics,3,600,1800,Texas,COD
+328,2023-02-14,CUST1008,Shoes,Fashion,5,60,300,Texas,COD
+329,2023-07-30,CUST1098,Bag,Stationery,5,25,125,Florida,Wallet
+330,2023-06-12,CUST1082,Headphones,Electronics,2,50,100,New York,COD
+331,2023-06-26,CUST1016,Pen,Stationery,5,2,10,Illinois,Wallet
+332,2023-08-10,CUST1064,T-Shirt,Fashion,2,20,40,New York,Credit Card
+333,2023-03-26,CUST1020,Shoes,Fashion,3,60,180,Texas,Debit Card
+334,2023-05-26,CUST1010,Mixer,Home Appliances,5,100,500,Texas,Debit Card
+335,2023-11-17,CUST1038,Washing Machine,Home Appliances,2,300,600,Illinois,Wallet
+336,2023-11-25,CUST1021,Headphones,Electronics,5,50,250,Illinois,Wallet
+337,2023-12-04,CUST1079,Shoes,Fashion,2,60,120,Illinois,UPI
+338,2023-02-11,CUST1005,Smartphone,Electronics,1,400,400,Illinois,UPI
+339,2023-08-02,CUST1079,Jeans,Fashion,5,40,200,New York,COD
+340,2023-09-05,CUST1031,Microwave,Home Appliances,3,150,450,Florida,UPI
+341,2023-12-19,CUST1007,Pen,Stationery,1,2,2,California,COD
+342,2023-08-26,CUST1026,Notebook,Stationery,4,5,20,Texas,Wallet
+343,2023-06-13,CUST1093,Shoes,Fashion,3,60,180,Texas,COD
+344,2023-09-21,CUST1071,Shoes,Fashion,3,60,180,New York,UPI
+345,2023-03-04,CUST1034,Jacket,Fashion,4,80,320,Florida,Debit Card
+346,2023-01-26,CUST1037,Shoes,Fashion,1,60,60,Florida,Wallet
+347,2023-03-23,CUST1041,Notebook,Stationery,2,5,10,Illinois,UPI
+348,2023-09-13,CUST1065,Jeans,Fashion,2,40,80,Florida,COD
+349,2023-01-12,CUST1011,Microwave,Home Appliances,4,150,600,Florida,Wallet
+350,2023-04-21,CUST1074,Pen,Stationery,2,2,4,Texas,Credit Card
+351,2023-09-11,CUST1076,Smartphone,Electronics,3,400,1200,Florida,UPI
+352,2023-08-09,CUST1017,Laptop,Electronics,1,600,600,Texas,UPI
+353,2023-01-24,CUST1051,Book,Stationery,3,15,45,New York,Wallet
+354,2023-10-11,CUST1036,Jeans,Fashion,3,40,120,New York,COD
+355,2023-05-24,CUST1079,Pen,Stationery,5,2,10,Illinois,Credit Card
+356,2023-07-21,CUST1047,Shoes,Fashion,1,60,60,Texas,Wallet
+357,2023-04-12,CUST1077,Mixer,Home Appliances,2,100,200,Illinois,COD
+358,2023-01-20,CUST1017,Smartphone,Electronics,1,400,400,Texas,COD
+359,2023-11-07,CUST1065,Pen,Stationery,2,2,4,California,UPI
+360,2023-07-21,CUST1078,Refrigerator,Home Appliances,2,500,1000,Texas,Wallet
+361,2023-09-18,CUST1068,Refrigerator,Home Appliances,5,500,2500,Florida,Wallet
+362,2023-01-09,CUST1047,Microwave,Home Appliances,4,150,600,Texas,Credit Card
+363,2023-06-07,CUST1092,Notebook,Stationery,5,5,25,New York,Wallet
+364,2023-12-02,CUST1100,Bag,Stationery,3,25,75,Illinois,Wallet
+365,2023-10-26,CUST1061,Jacket,Fashion,1,80,80,California,Wallet
+366,2023-12-15,CUST1031,Book,Stationery,2,15,30,New York,Wallet
+367,2023-01-10,CUST1056,Tablet,Electronics,2,250,500,Texas,COD
+368,2023-12-20,CUST1026,Shoes,Fashion,4,60,240,Florida,Wallet
+369,2023-12-28,CUST1017,Bag,Stationery,1,25,25,Illinois,Debit Card
+370,2023-09-27,CUST1048,Refrigerator,Home Appliances,4,500,2000,Texas,Debit Card
+371,2023-06-25,CUST1069,Pen,Stationery,5,2,10,Texas,UPI
+372,2023-05-07,CUST1035,Bag,Stationery,2,25,50,Illinois,UPI
+373,2023-05-28,CUST1090,Jacket,Fashion,3,80,240,California,COD
+374,2023-06-28,CUST1071,Refrigerator,Home Appliances,4,500,2000,Texas,UPI
+375,2023-12-13,CUST1069,Tablet,Electronics,5,250,1250,Florida,COD
+376,2023-05-29,CUST1005,Mixer,Home Appliances,2,100,200,Texas,Credit Card
+377,2023-12-02,CUST1032,Mixer,Home Appliances,4,100,400,Florida,Debit Card
+378,2023-05-19,CUST1071,Jeans,Fashion,5,40,200,Texas,Debit Card
+379,2023-10-28,CUST1030,Tablet,Electronics,5,250,1250,California,Credit Card
+380,2023-01-27,CUST1012,Jacket,Fashion,2,80,160,Florida,UPI
+381,2023-12-15,CUST1098,Bag,Stationery,1,25,25,California,Credit Card
+382,2023-12-01,CUST1060,T-Shirt,Fashion,4,20,80,Florida,Debit Card
+383,2023-05-27,CUST1082,Microwave,Home Appliances,3,150,450,New York,Credit Card
+384,2023-01-20,CUST1022,Jacket,Fashion,5,80,400,Florida,Debit Card
+385,2023-09-11,CUST1023,Smartphone,Electronics,4,400,1600,Texas,Credit Card
+386,2023-10-18,CUST1077,Laptop,Electronics,3,600,1800,New York,UPI
+387,2023-11-25,CUST1069,Microwave,Home Appliances,4,150,600,Illinois,COD
+388,2023-08-28,CUST1034,Shoes,Fashion,5,60,300,California,Credit Card
+389,2023-08-23,CUST1082,Refrigerator,Home Appliances,2,500,1000,Texas,Debit Card
+390,2023-06-01,CUST1072,Laptop,Electronics,3,600,1800,California,Debit Card
+391,2023-09-21,CUST1041,Book,Stationery,4,15,60,New York,COD
+392,2023-03-13,CUST1061,Tablet,Electronics,2,250,500,Texas,Debit Card
+393,2023-07-16,CUST1030,Laptop,Electronics,3,600,1800,Florida,UPI
+394,2023-10-26,CUST1092,Refrigerator,Home Appliances,3,500,1500,Illinois,Credit Card
+395,2023-12-21,CUST1030,Washing Machine,Home Appliances,3,300,900,New York,Credit Card
+396,2023-03-23,CUST1051,Pen,Stationery,3,2,6,Illinois,UPI
+397,2023-07-08,CUST1078,Tablet,Electronics,3,250,750,California,Debit Card
+398,2023-03-20,CUST1058,Shoes,Fashion,4,60,240,Illinois,UPI
+399,2023-08-30,CUST1096,Notebook,Stationery,5,5,25,Illinois,Debit Card
+400,2023-02-11,CUST1067,Jacket,Fashion,5,80,400,Florida,Wallet
+401,2023-10-16,CUST1014,Mixer,Home Appliances,1,100,100,New York,Wallet
+402,2023-10-02,CUST1019,Jeans,Fashion,5,40,200,California,UPI
+403,2023-12-15,CUST1026,Pen,Stationery,1,2,2,Illinois,COD
+404,2023-08-17,CUST1007,Headphones,Electronics,5,50,250,Florida,Debit Card
+405,2023-10-16,CUST1007,Notebook,Stationery,4,5,20,Illinois,COD
+406,2023-07-22,CUST1032,Microwave,Home Appliances,1,150,150,New York,Debit Card
+407,2023-08-05,CUST1044,Headphones,Electronics,1,50,50,New York,Wallet
+408,2023-08-30,CUST1004,Smartphone,Electronics,1,400,400,Texas,COD
+409,2023-11-25,CUST1093,T-Shirt,Fashion,2,20,40,Florida,UPI
+410,2023-07-13,CUST1048,Book,Stationery,4,15,60,New York,Wallet
+411,2023-03-02,CUST1022,Shoes,Fashion,3,60,180,Illinois,COD
+412,2023-01-02,CUST1096,Shoes,Fashion,2,60,120,New York,UPI
+413,2023-08-06,CUST1068,Pen,Stationery,5,2,10,Florida,Debit Card
+414,2023-06-27,CUST1019,Jacket,Fashion,4,80,320,Texas,Debit Card
+415,2023-12-05,CUST1053,Tablet,Electronics,1,250,250,Illinois,Credit Card
+416,2023-02-04,CUST1012,Jacket,Fashion,2,80,160,Illinois,Credit Card
+417,2023-12-11,CUST1090,Pen,Stationery,5,2,10,New York,Debit Card
+418,2023-08-13,CUST1029,Smartphone,Electronics,4,400,1600,Illinois,Debit Card
+419,2023-09-15,CUST1037,Smartphone,Electronics,2,400,800,California,Wallet
+420,2023-11-03,CUST1098,Refrigerator,Home Appliances,5,500,2500,Texas,Debit Card
+421,2023-12-05,CUST1066,Microwave,Home Appliances,2,150,300,California,COD
+422,2023-02-01,CUST1071,Microwave,Home Appliances,3,150,450,Illinois,Debit Card
+423,2023-09-11,CUST1006,Notebook,Stationery,5,5,25,Texas,COD
+424,2023-07-29,CUST1019,Refrigerator,Home Appliances,4,500,2000,Texas,COD
+425,2023-08-31,CUST1030,T-Shirt,Fashion,5,20,100,California,UPI
+426,2023-01-30,CUST1071,Shoes,Fashion,4,60,240,Florida,COD
+427,2023-05-05,CUST1032,Shoes,Fashion,4,60,240,California,UPI
+428,2023-07-09,CUST1011,Headphones,Electronics,4,50,200,Illinois,Debit Card
+429,2023-07-13,CUST1086,Smartphone,Electronics,3,400,1200,Illinois,Wallet
+430,2023-04-07,CUST1097,Smartphone,Electronics,1,400,400,Illinois,Wallet
+431,2023-04-17,CUST1042,Jeans,Fashion,4,40,160,Texas,Credit Card
+432,2023-03-02,CUST1095,Jeans,Fashion,2,40,80,Florida,Debit Card
+433,2023-05-03,CUST1070,Jeans,Fashion,4,40,160,Texas,UPI
+434,2023-10-01,CUST1083,Book,Stationery,4,15,60,Texas,UPI
+435,2023-09-20,CUST1063,Washing Machine,Home Appliances,3,300,900,Florida,Credit Card
+436,2023-04-15,CUST1047,Bag,Stationery,3,25,75,Texas,COD
+437,2023-04-24,CUST1094,Smartphone,Electronics,5,400,2000,California,Credit Card
+438,2023-10-27,CUST1074,Washing Machine,Home Appliances,5,300,1500,Florida,UPI
+439,2023-06-18,CUST1029,Shoes,Fashion,2,60,120,Florida,Wallet
+440,2023-10-09,CUST1083,Jacket,Fashion,4,80,320,Texas,UPI
+441,2023-08-24,CUST1021,Bag,Stationery,4,25,100,Texas,Debit Card
+442,2023-09-08,CUST1023,Shoes,Fashion,5,60,300,Illinois,Credit Card
+443,2023-12-09,CUST1006,Smartphone,Electronics,1,400,400,New York,COD
+444,2023-02-04,CUST1090,Shoes,Fashion,2,60,120,California,Credit Card
+445,2023-08-22,CUST1047,Jeans,Fashion,5,40,200,New York,Wallet
+446,2023-01-09,CUST1000,Bag,Stationery,4,25,100,Illinois,Wallet
+447,2023-01-09,CUST1067,Notebook,Stationery,1,5,5,Texas,Wallet
+448,2023-09-15,CUST1089,Microwave,Home Appliances,1,150,150,Florida,Debit Card
+449,2023-09-26,CUST1019,Tablet,Electronics,1,250,250,California,Debit Card
+450,2023-05-17,CUST1050,Washing Machine,Home Appliances,3,300,900,New York,UPI
+451,2023-10-17,CUST1031,Book,Stationery,4,15,60,California,UPI
+452,2023-02-17,CUST1051,Headphones,Electronics,1,50,50,Florida,COD
+453,2023-11-23,CUST1001,Bag,Stationery,1,25,25,California,Credit Card
+454,2023-11-27,CUST1100,Bag,Stationery,4,25,100,Texas,Wallet
+455,2023-01-22,CUST1029,Tablet,Electronics,5,250,1250,California,Wallet
+456,2023-01-24,CUST1009,Bag,Stationery,3,25,75,Texas,Wallet
+457,2023-06-11,CUST1002,Smartphone,Electronics,2,400,800,California,Wallet
+458,2023-02-09,CUST1038,Shoes,Fashion,4,60,240,California,Wallet
+459,2023-07-19,CUST1086,Jacket,Fashion,5,80,400,Illinois,UPI
+460,2023-12-19,CUST1092,Book,Stationery,2,15,30,New York,Wallet
+461,2023-02-20,CUST1055,Mixer,Home Appliances,1,100,100,California,Credit Card
+462,2023-11-11,CUST1076,Refrigerator,Home Appliances,5,500,2500,Florida,UPI
+463,2023-08-19,CUST1062,Laptop,Electronics,3,600,1800,California,UPI
+464,2023-04-06,CUST1087,Book,Stationery,4,15,60,Illinois,COD
+465,2023-06-01,CUST1031,Headphones,Electronics,5,50,250,New York,Credit Card
+466,2023-07-14,CUST1091,Washing Machine,Home Appliances,2,300,600,California,COD
+467,2023-02-24,CUST1011,Refrigerator,Home Appliances,3,500,1500,New York,UPI
+468,2023-05-19,CUST1013,Pen,Stationery,3,2,6,California,Credit Card
+469,2023-08-18,CUST1071,T-Shirt,Fashion,4,20,80,Illinois,Wallet
+470,2023-01-14,CUST1011,Notebook,Stationery,1,5,5,Texas,Wallet
+471,2023-11-03,CUST1100,Headphones,Electronics,5,50,250,Texas,COD
+472,2023-07-31,CUST1049,Laptop,Electronics,3,600,1800,New York,Wallet
+473,2023-09-24,CUST1021,Jacket,Fashion,5,80,400,Florida,Debit Card
+474,2023-06-04,CUST1034,Shoes,Fashion,3,60,180,Florida,Debit Card
+475,2023-08-11,CUST1035,Headphones,Electronics,2,50,100,Florida,UPI
+476,2023-07-04,CUST1032,Bag,Stationery,1,25,25,California,COD
+477,2023-02-24,CUST1017,Jeans,Fashion,4,40,160,Texas,Credit Card
+478,2023-11-14,CUST1048,Book,Stationery,3,15,45,Texas,COD
+479,2023-11-30,CUST1076,Refrigerator,Home Appliances,4,500,2000,California,UPI
+480,2023-12-22,CUST1025,Refrigerator,Home Appliances,5,500,2500,Florida,UPI
+481,2023-06-13,CUST1037,T-Shirt,Fashion,4,20,80,Florida,Wallet
+482,2023-07-12,CUST1035,Jacket,Fashion,3,80,240,Florida,UPI
+483,2023-04-13,CUST1075,Tablet,Electronics,5,250,1250,Illinois,Debit Card
+484,2023-12-29,CUST1026,Laptop,Electronics,4,600,2400,Florida,UPI
+485,2023-12-11,CUST1063,Headphones,Electronics,4,50,200,California,UPI
+486,2023-12-04,CUST1019,Jacket,Fashion,3,80,240,Florida,COD
+487,2023-11-03,CUST1061,Headphones,Electronics,4,50,200,Illinois,COD
+488,2023-01-19,CUST1046,Notebook,Stationery,5,5,25,Illinois,Wallet
+489,2023-05-08,CUST1084,Headphones,Electronics,1,50,50,Texas,Debit Card
+490,2023-11-27,CUST1086,Smartphone,Electronics,5,400,2000,Florida,UPI
+491,2023-01-06,CUST1012,Notebook,Stationery,1,5,5,Texas,Debit Card
+492,2023-07-11,CUST1050,Jacket,Fashion,4,80,320,Florida,Wallet
+493,2023-01-13,CUST1061,Shoes,Fashion,3,60,180,New York,UPI
+494,2023-03-01,CUST1093,Notebook,Stationery,1,5,5,California,UPI
+495,2023-08-22,CUST1100,Microwave,Home Appliances,3,150,450,California,Wallet
+496,2023-09-01,CUST1012,Bag,Stationery,3,25,75,Florida,COD
+497,2023-06-03,CUST1005,Refrigerator,Home Appliances,1,500,500,New York,Credit Card
+498,2023-12-13,CUST1021,Refrigerator,Home Appliances,1,500,500,California,Wallet
+499,2023-03-23,CUST1042,T-Shirt,Fashion,5,20,100,Illinois,COD
+500,2023-07-27,CUST1080,Pen,Stationery,2,2,4,California,Debit Card
